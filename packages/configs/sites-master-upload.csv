@@ -1,0 +1,459 @@
+source_id,jurisdiction,agency_name,site_url,css_selector
+alabama-0,Alabama,Alabama Source 0,https://www.gsa.state.al.us/ogb,body
+alabama-1,Alabama,Alabama Source 1,https://www.gsa.state.al.us/ogb/wells,body
+alabama-2,Alabama,Alabama Source 2,https://adem.alabama.gov/air/air-permitting,body
+alabama-3,Alabama,Alabama Source 3,https://adem.alabama.gov/air,body
+alabama-4,Alabama,Alabama Source 4,https://adem.alabama.gov/water/npdes-programs/npdes-permits,body
+alabama-5,Alabama,Alabama Source 5,https://adem.alabama.gov/water/npdes-programs/construction-general-permit,body
+alabama-6,Alabama,Alabama Source 6,https://www.epa.gov/npdes-permits/alabama-npdes-permits,body
+alabama-7,Alabama,Alabama Source 7,https://psc.alabama.gov/gas-pipeline-safety/,body
+alabama-8,Alabama,Alabama Source 8,https://apsc.alabama.gov/Energy/GPS/gas_pipeline_safety_section.htm,body
+alabama-9,Alabama,Alabama Source 9,https://www.jcdh.org/SitePages/Misc/TitleVAirPermits.aspx,body
+alabama-10,Alabama,Alabama Source 10,https://www.jcdh.org/SitePages/Programs-Services/EnvironmentalHealth/Air-RadiationProtectionDivision/RegAirFac.aspx,body
+alabama-11,Alabama,Alabama Source 11,https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/,body
+alabama-12,Alabama,Alabama Source 12,https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/air-permit/,body
+alabama-13,Alabama,Alabama Source 13,https://www.huntsvilleal.gov/business/licensing-permits/environment-licenses/air-permits/,body
+alaska-0,Alaska,Alaska Source 0,https://www.commerce.alaska.gov/web/aogcc/,body
+alaska-1,Alaska,Alaska Source 1,https://dog.dnr.alaska.gov/,body
+alaska-2,Alaska,Alaska Source 2,https://dog.dnr.alaska.gov/LeaseSale,body
+alaska-3,Alaska,Alaska Source 3,https://dec.alaska.gov/air/air-permit/,body
+alaska-4,Alaska,Alaska Source 4,https://dec.alaska.gov/water/wastewater/,body
+alaska-5,Alaska,Alaska Source 5,https://www.epa.gov/npdes-permits/alaska-npdes-permits,body
+alaska-6,Alaska,Alaska Source 6,https://dec.alaska.gov/spar/ppr/contingency-plans/,body
+alaska-7,Alaska,Alaska Source 7,https://rca.alaska.gov/RCAWeb/home.aspx,body
+arizona-0,Arizona,Arizona Source 0,https://azogcc.az.gov/,body
+arizona-1,Arizona,Arizona Source 1,https://azogcc.az.gov/permits,body
+arizona-2,Arizona,Arizona Source 2,https://azcc.gov/safety/pipeline-safety/pipeline,body
+arizona-3,Arizona,Arizona Source 3,https://azdeq.gov/air-permits-comp,body
+arizona-4,Arizona,Arizona Source 4,https://azdeq.gov/permits/AZPDES/IND,body
+arizona-5,Arizona,Arizona Source 5,https://azdeq.gov/SWPPermitting,body
+arizona-6,Arizona,Arizona Source 6,https://land.az.gov/applications-permits,body
+arizona-7,Arizona,Arizona Source 7,https://www.maricopa.gov/1818/Permits-Forms-and-Payments,body
+arizona-8,Arizona,Arizona Source 8,https://www.pima.gov/439/Air-Quality-Permits,body
+arizona-9,Arizona,Arizona Source 9,https://www.pinal.gov/1255/Permitting,body
+arkansas-0,Arkansas,Arkansas Source 0,https://ee.arkansas.gov/energy/oil-gas-commission/,body
+arkansas-1,Arkansas,Arkansas Source 1,https://www.aogc.state.ar.us/,body
+arkansas-2,Arkansas,Arkansas Source 2,https://www.adeq.state.ar.us/air/permits/,body
+arkansas-3,Arkansas,Arkansas Source 3,https://ee.arkansas.gov/environment/office-of-air-quality/,body
+arkansas-4,Arkansas,Arkansas Source 4,https://www.adeq.state.ar.us/water/permits/npdes/,body
+arkansas-5,Arkansas,Arkansas Source 5,https://www.epa.gov/npdes-permits/arkansas-npdes-permits,body
+arkansas-6,Arkansas,Arkansas Source 6,https://apsc.arkansas.gov/utilities/pipeline-safety/,body
+california-0,California,California Source 0,https://www.conservation.ca.gov/calgem,body
+california-1,California,California Source 1,https://www.energy.ca.gov,body
+california-2,California,California Source 2,https://www.cpuc.ca.gov,body
+california-3,California,California Source 3,https://ww2.arb.ca.gov,body
+california-4,California,California Source 4,https://calepa.ca.gov,body
+california-5,California,California Source 5,https://www.slc.ca.gov/oil-gas,body
+california-6,California,California Source 6,https://www.dir.ca.gov/dosh/,body
+california-7,California,California Source 7,https://www.waterboards.ca.gov,body
+california-8,California,California Source 8,https://osfm.fire.ca.gov/divisions/pipeline-safety-division/,body
+california-9,California,California Source 9,http://www.aqmd.gov,body
+california-10,California,California Source 10,https://www.baaqmd.gov,body
+california-11,California,California Source 11,https://www.valleyair.org,body
+california-12,California,California Source 12,http://www.airquality.org,body
+california-13,California,California Source 13,https://www.sdapcd.org,body
+california-14,California,California Source 14,https://www.vcapcd.org,body
+california-15,California,California Source 15,https://www.ourair.org,body
+california-16,California,California Source 16,https://www.mbard.org,body
+california-17,California,California Source 17,https://www.mdaqmd.ca.gov,body
+california-18,California,California Source 18,https://osfm.fire.ca.gov/what-we-do/code-development-and-analysis,body
+california-19,California,California Source 19,https://www.dgs.ca.gov/-/media/Divisions/BSC/03-Rulemaking/2024-Triennial-Cycle/CAC/2024-07-09-BFO/SFM-06-24-ISOR-PT9.pdf,body
+california-20,California,California Source 20,https://codes.iccsafe.org/content/CAFC2022P3/chapter-1-scope-and-administration,body
+colorado-0,Colorado,Colorado Source 0,https://ecmc.state.co.us,body
+colorado-1,Colorado,Colorado Source 1,https://cdphe.colorado.gov/apens-and-air-permits,body
+colorado-2,Colorado,Colorado Source 2,https://cdphe.colorado.gov/water-quality,body
+colorado-3,Colorado,Colorado Source 3,https://puc.colorado.gov,body
+colorado-4,Colorado,Colorado Source 4,https://slb.colorado.gov/lease/oil-gas,body
+connecticut-0,Connecticut,Connecticut Source 0,https://portal.ct.gov/PURA/Gas-Pipeline-Safety/Gas-Pipeline-Safety,body
+connecticut-1,Connecticut,Connecticut Source 1,https://portal.ct.gov/deep/air/permits/air-permits,body
+connecticut-2,Connecticut,Connecticut Source 2,https://portal.ct.gov/DEEP/Air/Permits/Title-V-Operating-Permit-Program,body
+connecticut-3,Connecticut,Connecticut Source 3,https://portal.ct.gov/DEEP/Air/Permits/Air-Permitting-Assistance,body
+connecticut-4,Connecticut,Connecticut Source 4,https://portal.ct.gov/deep/permits-and-licenses/water-discharge-permits-and-general-permits,body
+connecticut-5,Connecticut,Connecticut Source 5,https://portal.ct.gov/DEEP/Permits-and-Licenses/Factsheets-Water-Discharges/Wastewater-Discharges-Fact-Sheet,body
+connecticut-6,Connecticut,Connecticut Source 6,https://www.epa.gov/npdes-permits/connecticut-npdes-permits,body
+connecticut-7,Connecticut,Connecticut Source 7,https://filings.deep.ct.gov/DEEPPortal/PublicSearch/PSSearchView,body
+delaware-0,Delaware,Delaware Source 0,https://depsc.delaware.gov/pipeline-safety-program/,body
+delaware-1,Delaware,Delaware Source 1,https://dnrec.delaware.gov/air/permitting/,body
+delaware-2,Delaware,Delaware Source 2,https://dnrec.delaware.gov/air/permitting/major-air-sources/,body
+delaware-3,Delaware,Delaware Source 3,https://www.epa.gov/caa-permitting/caa-permitting-delaware,body
+delaware-4,Delaware,Delaware Source 4,https://dnrec.delaware.gov/water/commercial-government/npdes/,body
+delaware-5,Delaware,Delaware Source 5,https://www.epa.gov/npdes-permits/delaware-npdes-permits,body
+delaware-6,Delaware,Delaware Source 6,https://dnrec.delaware.gov/coastal-programs/coastal-management/federal-consistency/,body
+delaware-7,Delaware,Delaware Source 7,https://dnrec.delaware.gov/dnrec-public-notices/,body
+delaware-8,Delaware,Delaware Source 8,https://den.dnrec.delaware.gov/,body
+florida-0,Florida,Florida Source 0,https://www.floridapsc.com/pscfiles/website-files/PDF/Utilities/Electricgas/GasSafety//RuleBookletCh25-2025.pdf,body
+florida-1,Florida,Florida Source 1,https://www.floridapsc.com/pscfiles/website-files/PDF/Publications/Reports/ElectricGas/Pipeline/2023.pdf,body
+florida-2,Florida,Florida Source 2,https://floridadep.gov/air/permitting-compliance/content/air-permit-application,body
+florida-3,Florida,Florida Source 3,https://floridadep.gov/air/permitting-compliance/documents/air-construction-permits,body
+florida-4,Florida,Florida Source 4,https://floridadep.gov/air/permitting-compliance/documents/air-operation-permits,body
+florida-5,Florida,Florida Source 5,https://www.epa.gov/caa-permitting/clean-air-act-permitting-florida,body
+florida-6,Florida,Florida Source 6,https://floridadep.gov/air/air-director/content/how-find-air-documents-online,body
+florida-7,Florida,Florida Source 7,https://prodenv.dep.state.fl.us/DepNexus/public/searchPortal,body
+florida-8,Florida,Florida Source 8,https://www.epa.gov/npdes-permits/florida-npdes-permits,body
+florida-9,Florida,Florida Source 9,https://floridadep.gov/water/industrial-wastewater,body
+florida-10,Florida,Florida Source 10,https://floridadep.gov/water/stormwater,body
+florida-11,Florida,Florida Source 11,https://floridadep.gov/rcp/fcmp/content/federal-consistency-intergovernmental-coordination-and-review,body
+florida-12,Florida,Florida Source 12,https://floridadep.gov/rcp/fcmp/content/about-florida-coastal-management-program,body
+florida-13,Florida,Florida Source 13,https://floridadep.gov/air/air-director/content/local-program-air-contacts,body
+florida-14,Florida,Florida Source 14,https://myfloridacfo.com/division/sfm/bfp/florida-fire-prevention-code,body
+florida-15,Florida,Florida Source 15,https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699%2F0633%2FSections%2F0633.202.html,body
+florida-16,Florida,Florida Source 16,https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-69A-3-012,body
+florida-17,Florida,Florida Source 17,https://www.myfloridacfo.com/docs-sf/state-fire-marshal-libraries/sfm-documents/bfp/local-amendments/2025-updated-procedure-and-information-for-adoption-of-local-amendments-.pdf?sfvrsn=c2059ec1_1,body
+georgia-0,Georgia,Georgia Source 0,https://epd.georgia.gov/chapter-391-3-13-rules-oil-and-gas-and-deep-drilling,body
+georgia-1,Georgia,Georgia Source 1,https://rules.sos.ga.gov/gac/391-3-13,body
+georgia-2,Georgia,Georgia Source 2,https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits,body
+georgia-3,Georgia,Georgia Source 3,https://epd.georgia.gov/air-protection-branch-technical-guidance-0/types-air-quality-permits/title-v-permitting,body
+georgia-4,Georgia,Georgia Source 4,https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits/apply-air-permit,body
+georgia-5,Georgia,Georgia Source 5,https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant,body
+georgia-6,Georgia,Georgia Source 6,https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting,body
+georgia-7,Georgia,Georgia Source 7,https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant-0,body
+georgia-8,Georgia,Georgia Source 8,https://psc.ga.gov/facilities-protection/pipeline-safety/,body
+georgia-9,Georgia,Georgia Source 9,https://rules.sos.state.ga.us/gac/515-9-3,body
+georgia-10,Georgia,Georgia Source 10,https://gspc.georgia.gov/,body
+georgia-11,Georgia,Georgia Source 11,https://law.justia.com/codes/georgia/title-50/chapter-16/article-2/section-50-16-43/,body
+hawaii-0,Hawaii,Hawaii Source 0,https://health.hawaii.gov/cab/permit-application-forms/,body
+hawaii-1,Hawaii,Hawaii Source 1,https://www.epa.gov/caa-permitting/clean-air-act-permitting-hawaii-and-pacific-islands,body
+hawaii-2,Hawaii,Hawaii Source 2,https://health.hawaii.gov/cab/public-notices/,body
+hawaii-3,Hawaii,Hawaii Source 3,https://health.hawaii.gov/cwb/npdes-permits-and-how-to-apply/,body
+hawaii-4,Hawaii,Hawaii Source 4,https://www.epa.gov/npdes-permits/hawaii,body
+hawaii-5,Hawaii,Hawaii Source 5,https://health.hawaii.gov/cwb/clean-water-branch-home-page/public-notices-and-updates/,body
+hawaii-6,Hawaii,Hawaii Source 6,https://planning.hawaii.gov/czm/federal-consistency/,body
+idaho-0,Idaho,Idaho Source 0,https://ogcc.idaho.gov/,body
+idaho-1,Idaho,Idaho Source 1,https://www.deq.idaho.gov/permits/air-quality-permitting/,body
+idaho-2,Idaho,Idaho Source 2,https://www.deq.idaho.gov/water-quality/wastewater/permit-options/,body
+idaho-3,Idaho,Idaho Source 3,https://www.epa.gov/npdes-permits/idaho-npdes-program-authorization,body
+idaho-4,Idaho,Idaho Source 4,https://puc.idaho.gov/Page/Utility/8,body
+idaho-5,Idaho,Idaho Source 5,https://www.idl.idaho.gov/leasing/oil-gas-leasing/,body
+illinois-0,Illinois,Illinois Source 0,https://dnr.illinois.gov/oilandgas.html,body
+illinois-1,Illinois,Illinois Source 1,https://dnr.illinois.gov/oilandgas/programsandregulations.html,body
+illinois-2,Illinois,Illinois Source 2,https://epa.illinois.gov/topics/forms/air-permits.html,body
+illinois-3,Illinois,Illinois Source 3,https://epa.illinois.gov/topics/forms/fees/clean-air-title-v.html,body
+illinois-4,Illinois,Illinois Source 4,https://epa.illinois.gov/topics/forms/water-permits.html,body
+illinois-5,Illinois,Illinois Source 5,https://www.epa.gov/npdes-permits/illinois-npdes-permits,body
+illinois-6,Illinois,Illinois Source 6,https://www.illinois.gov/services/service.icc-pipeline-safety.html,body
+illinois-7,Illinois,Illinois Source 7,https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=165&ChapterID=2,body
+illinois-8,Illinois,Illinois Source 8,https://dnr.illinois.gov/content/dam/soi/en/web/dnr/adrules/documents/62-250.pdf,body
+indiana-0,Indiana,Indiana Source 0,https://www.in.gov/dnr/oil-and-gas/,body
+indiana-1,Indiana,Indiana Source 1,https://www.in.gov/dnr/oil-and-gas/permits-and-forms/permits/,body
+indiana-2,Indiana,Indiana Source 2,https://www.in.gov/dnr/oil-and-gas/oil-and-gas-leasing-of-state-owned-lands/,body
+indiana-3,Indiana,Indiana Source 3,https://www.in.gov/idem/airpermit/,body
+indiana-4,Indiana,Indiana Source 4,https://www.in.gov/idem/airpermit/information-about/operating-permits/,body
+indiana-5,Indiana,Indiana Source 5,https://www.in.gov/idem/cleanwater/wastewater-permitting/national-pollutant-discharge-elimination-system-npdes/,body
+indiana-6,Indiana,Indiana Source 6,https://www.epa.gov/npdes-permits/indiana-npdes-permits,body
+indiana-7,Indiana,Indiana Source 7,https://www.in.gov/iurc/pipeline-safety-division/,body
+indiana-8,Indiana,Indiana Source 8,https://www.in.gov/iurc/pipeline-safety-division/regulation-of-gas-operators/,body
+iowa-0,Iowa,Iowa Source 0,https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/pipeline-safety,body
+iowa-1,Iowa,Iowa Source 1,https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/hazardous-liquid-pipeline-permits,body
+iowa-2,Iowa,Iowa Source 2,https://www.iowadnr.gov/environmental-protection/air-quality/air-quality-construction-permits,body
+iowa-3,Iowa,Iowa Source 3,https://www.iowadnr.gov/environmental-protection/air-quality/operating-permits,body
+iowa-4,Iowa,Iowa Source 4,https://programs.iowadnr.gov/easyair/Public/GovEnt/Shared/Pages/Main/Login.aspx,body
+iowa-5,Iowa,Iowa Source 5,https://www.iowadnr.gov/environmental-protection/air-quality/eair-services,body
+iowa-6,Iowa,Iowa Source 6,https://www.iowadnr.gov/environmental-protection/air-quality/local-air-quality-programs,body
+iowa-7,Iowa,Iowa Source 7,https://www.linncountyiowa.gov/1429/Air-Quality,body
+iowa-8,Iowa,Iowa Source 8,https://www.polkcountyiowa.gov/public-works/air-quality/,body
+iowa-9,Iowa,Iowa Source 9,https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes,body
+iowa-10,Iowa,Iowa Source 10,https://www.epa.gov/npdes-permits/iowa-npdes-permits,body
+iowa-11,Iowa,Iowa Source 11,https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes/current-permits,body
+kansas-0,Kansas,Kansas Source 0,https://www.kcc.ks.gov/oil-gas,body
+kansas-1,Kansas,Kansas Source 1,https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline,body
+kansas-2,Kansas,Kansas Source 2,https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline/liquid-pipeline,body
+kansas-3,Kansas,Kansas Source 3,https://www.kdhe.ks.gov/313/Permitting,body
+kansas-4,Kansas,Kansas Source 4,https://www.kdhe.ks.gov/754/Pollution-Control-Wastewater-Programs,body
+kansas-5,Kansas,Kansas Source 5,https://www.epa.gov/npdes-permits/kansas-npdes-permits,body
+kansas-6,Kansas,Kansas Source 6,https://www.wycokck.org/Departments/Health/Clean-Safe-Places/Air-Quality,body
+kentucky-0,Kentucky,Kentucky Source 0,https://psc.ky.gov/Home/PipelineSafety,body
+kentucky-1,Kentucky,Kentucky Source 1,https://eec.ky.gov/Environmental-Protection/Air/Pages/Air-Permitting.aspx,body
+kentucky-2,Kentucky,Kentucky Source 2,https://www.epa.gov/caa-permitting/clean-air-act-permitting-kentucky,body
+kentucky-3,Kentucky,Kentucky Source 3,https://louisvilleky.gov/government/air-pollution-control-district/air-pollution-permitting-louisville,body
+kentucky-4,Kentucky,Kentucky Source 4,https://louisvilleky.gov/government/air-pollution-control-district/apcd-permit-application-forms-fees,body
+kentucky-5,Kentucky,Kentucky Source 5,https://eec.ky.gov/Environmental-Protection/Water/PermitCert/KPDES/Pages/default.aspx,body
+kentucky-6,Kentucky,Kentucky Source 6,https://www.epa.gov/npdes-permits/kentucky-npdes-permits,body
+kentucky-7,Kentucky,Kentucky Source 7,https://eec.ky.gov/Environmental-Protection/Air/Pages/default.aspx,body
+kentucky-8,Kentucky,Kentucky Source 8,https://eec.ky.gov/Environmental-Protection/Air/Pages/Permit-Required-Reporting.aspx,body
+louisiana-0,Louisiana,Louisiana Source 0,https://www.dnr.louisiana.gov/page/permit-to-drill-applications,body
+louisiana-1,Louisiana,Louisiana Source 1,https://www.dnr.louisiana.gov/page/pd-pipeline-division,body
+louisiana-2,Louisiana,Louisiana Source 2,https://deq.louisiana.gov/page/air-permits,body
+louisiana-3,Louisiana,Louisiana Source 3,https://deq.louisiana.gov/page/lpdes,body
+louisiana-4,Louisiana,Louisiana Source 4,https://www.dnr.louisiana.gov/page/office-of-coastal-management-home-page,body
+louisiana-5,Louisiana,Louisiana Source 5,https://www.dnr.louisiana.gov/page/applying-for-a-coastal-use-permit,body
+louisiana-6,Louisiana,Louisiana Source 6,https://www.dnr.louisiana.gov/page/state-mineral-and-energy-board,body
+maine-0,Maine,Maine Source 0,https://www.maine.gov/mpuc/safety/natural-gas-safety,body
+maine-1,Maine,Maine Source 1,https://www.maine.gov/dep/air/permits/index.html,body
+maine-2,Maine,Maine Source 2,https://www.maine.gov/dep/air/permits/major.html,body
+maine-3,Maine,Maine Source 3,https://www.epa.gov/caa-permitting/caa-permitting-maine,body
+maine-4,Maine,Maine Source 4,https://www.maine.gov/dep/water/wd/general.html,body
+maine-5,Maine,Maine Source 5,https://www.epa.gov/npdes-permits/maine-npdes-permits,body
+maine-6,Maine,Maine Source 6,https://www.maine.gov/dmr/programs/maine-coastal-program/federal-consistency-review,body
+maryland-0,Maryland,Maryland Source 0,https://www.psc.state.md.us/gas/natural-gas-pipeline-safety-program/,body
+maryland-1,Maryland,Maryland Source 1,https://www.psc.state.md.us/gas/hazardous-liquid-pipeline-safety-program/,body
+maryland-2,Maryland,Maryland Source 2,https://mde.maryland.gov/programs/Permits/AirManagementPermits/Pages/index.aspx,body
+maryland-3,Maryland,Maryland Source 3,https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/permitstoconstructandoperate.aspx,body
+maryland-4,Maryland,Maryland Source 4,https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/title5_issued_permits.aspx,body
+maryland-5,Maryland,Maryland Source 5,https://www.epa.gov/caa-permitting/caa-permitting-maryland,body
+maryland-6,Maryland,Maryland Source 6,https://www.epa.gov/npdes-permits/maryland-npdes-permits,body
+maryland-7,Maryland,Maryland Source 7,https://mde.maryland.gov/programs/permits/watermanagementpermits/pages/waterpermits.aspx,body
+maryland-8,Maryland,Maryland Source 8,https://mde.maryland.gov/programs/permits/pages/sb47.aspx,body
+maryland-9,Maryland,Maryland Source 9,https://mdedataviewer.mde.state.md.us/Public/,body
+maryland-10,Maryland,Maryland Source 10,https://mde.maryland.gov/programs/water/wetlandsandwaterways/pages/czm.aspx,body
+maryland-11,Maryland,Maryland Source 11,https://dnr.maryland.gov/ccs/pages/md-coastal-zone.aspx,body
+massachusetts-0,Massachusetts,Massachusetts Source 0,https://www.mass.gov/orgs/pipeline-safety-division,body
+massachusetts-1,Massachusetts,Massachusetts Source 1,https://www.mass.gov/regulations/220-CMR-10100-massachusetts-natural-gas-pipeline-safety-code,body
+massachusetts-2,Massachusetts,Massachusetts Source 2,https://www.mass.gov/air-climate-permitting-reporting,body
+massachusetts-3,Massachusetts,Massachusetts Source 3,https://www.mass.gov/guides/massdep-operating-permit-compliance-program,body
+massachusetts-4,Massachusetts,Massachusetts Source 4,https://www.mass.gov/guides/massdep-air-plan-applications,body
+massachusetts-5,Massachusetts,Massachusetts Source 5,https://www.epa.gov/npdes-permits/massachusetts-npdes-permits,body
+massachusetts-6,Massachusetts,Massachusetts Source 6,https://www.mass.gov/guides/npdes-permits-what-you-need-to-know,body
+massachusetts-7,Massachusetts,Massachusetts Source 7,https://www.mass.gov/orgs/massachusetts-office-of-coastal-zone-management-czm,body
+massachusetts-8,Massachusetts,Massachusetts Source 8,https://www.mass.gov/federal-consistency-review-program,body
+massachusetts-9,Massachusetts,Massachusetts Source 9,https://www.mass.gov/orgs/energy-facilities-siting-board,body
+michigan-0,Michigan,Michigan Source 0,https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas,body
+michigan-1,Michigan,Michigan Source 1,https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas/forms,body
+michigan-2,Michigan,Michigan Source 2,https://www.deq.state.mi.us/dataminer/,body
+michigan-3,Michigan,Michigan Source 3,https://www.michigan.gov/egle/about/organization/air-quality/air-permits,body
+michigan-4,Michigan,Michigan Source 4,https://www.michigan.gov/egle/about/organization/air-quality/air-permits/new-source-review,body
+michigan-5,Michigan,Michigan Source 5,https://www.egle.state.mi.us/aps/,body
+michigan-6,Michigan,Michigan Source 6,https://www.michigan.gov/egle/about/organization/water-resources/npdes,body
+michigan-7,Michigan,Michigan Source 7,https://www.michigan.gov/egle/about/organization/water-resources/npdes/general-permits,body
+michigan-8,Michigan,Michigan Source 8,https://www.epa.gov/npdes-permits/michigan-npdes-permits,body
+michigan-9,Michigan,Michigan Source 9,https://www.michigan.gov/mpsc/regulatory/natural-gas/pipeline-safety,body
+michigan-10,Michigan,Michigan Source 10,https://www.michigan.gov/dnr/managing-resources/minerals/oil-and-gas,body
+michigan-11,Michigan,Michigan Source 11,https://www.michigan.gov/dnr/faqs/minerals/oil-and-gas-leasing,body
+minnesota-0,Minnesota,Minnesota Source 0,https://dps.mn.gov/divisions/ops,body
+minnesota-1,Minnesota,Minnesota Source 1,https://www.pca.state.mn.us/business-with-us/air-permits,body
+minnesota-2,Minnesota,Minnesota Source 2,https://www.pca.state.mn.us/business-with-us/e-service-air-permit-applications,body
+minnesota-3,Minnesota,Minnesota Source 3,https://www.pca.state.mn.us/business-with-us/air-permit-types,body
+minnesota-4,Minnesota,Minnesota Source 4,https://www.epa.gov/caa-permitting/clean-air-act-permitting-minnesota,body
+minnesota-5,Minnesota,Minnesota Source 5,https://www.pca.state.mn.us/get-engaged/public-comments,body
+minnesota-6,Minnesota,Minnesota Source 6,https://www.pca.state.mn.us/business-with-us/wastewater-permits,body
+minnesota-7,Minnesota,Minnesota Source 7,https://www.epa.gov/npdes-permits/minnesota-npdes-permits,body
+minnesota-8,Minnesota,Minnesota Source 8,https://www.dnr.state.mn.us/waters/lakesuperior/federal.html,body
+mississippi-0,Mississippi,Mississippi Source 0,https://www.ogb.state.ms.us,body
+mississippi-1,Mississippi,Mississippi Source 1,https://www.mdeq.ms.gov/air/,body
+mississippi-2,Mississippi,Mississippi Source 2,https://www.mdeq.ms.gov/permits/,body
+mississippi-3,Mississippi,Mississippi Source 3,https://www.mdeq.ms.gov/permits/environmental-permits-division/applications-forms/air/,body
+mississippi-4,Mississippi,Mississippi Source 4,https://opcgis.deq.state.ms.us/ensearchonline/default.aspx,body
+mississippi-5,Mississippi,Mississippi Source 5,https://www.psc.ms.gov/pipeline/safety,body
+mississippi-6,Mississippi,Mississippi Source 6,https://www.epa.gov/npdes-permits/mississippi-npdes-permits,body
+missouri-0,Missouri,Missouri Source 0,https://psc.mo.gov/NaturalGas/Missouri_Pipeline_Safety_Authority,body
+missouri-1,Missouri,Missouri Source 1,https://dnr.mo.gov/air/business-industry/technical-assistance/construction-permits,body
+missouri-2,Missouri,Missouri Source 2,https://dnr.mo.gov/air/business-industry/technical-assistance/operating-permits,body
+missouri-3,Missouri,Missouri Source 3,https://dnr.mo.gov/air/business-industry/permits,body
+missouri-4,Missouri,Missouri Source 4,https://dnr.mo.gov/air/what-were-doing/public-notices,body
+missouri-5,Missouri,Missouri Source 5,https://dnr.mo.gov/air/business-industry/permits/issued,body
+missouri-6,Missouri,Missouri Source 6,https://dnr.mo.gov/water/business-industry-other-entities/permits-certification-engineering-fees/wastewater,body
+missouri-7,Missouri,Missouri Source 7,https://www.epa.gov/npdes-permits/missouri-npdes-permits,body
+missouri-8,Missouri,Missouri Source 8,https://dnr.mo.gov/water/data-e-services/electronic-permitting-epermitting,body
+missouri-9,Missouri,Missouri Source 9,https://stlouiscountymo.gov/st-louis-county-departments/public-health/environmental-services/air-pollution-control/,body
+missouri-10,Missouri,Missouri Source 10,https://www.kcmo.gov/city-hall/departments/health/health-online-forms-and-applications,body
+montana-0,Montana,Montana Source 0,https://dnrc.mt.gov/bogc/,body
+montana-1,Montana,Montana Source 1,https://bogapps.dnrc.mt.gov/dataminer/,body
+montana-2,Montana,Montana Source 2,https://deq.mt.gov/air/assistance,body
+montana-3,Montana,Montana Source 3,https://deq.mt.gov/water/assistance,body
+montana-4,Montana,Montana Source 4,https://www.epa.gov/npdes-permits/montana-npdes-permits,body
+montana-5,Montana,Montana Source 5,https://psc.mt.gov/Public-Safety/Pipeline-Safety,body
+montana-6,Montana,Montana Source 6,https://dnrc.mt.gov/TrustLand/subsurface-resources/oil-gas-leasing,body
+nebraska-0,Nebraska,Nebraska Source 0,https://www.nogcc.ne.gov/,body
+nebraska-1,Nebraska,Nebraska Source 1,https://dee.nebraska.gov/air/air-permitting/,body
+nebraska-2,Nebraska,Nebraska Source 2,https://dee.nebraska.gov/water-quality/water-quality-permitting/national-pollutant-discharge-elimination-systems-npdes-program,body
+nebraska-3,Nebraska,Nebraska Source 3,https://www.epa.gov/npdes-permits/nebraska-npdes-permits,body
+nebraska-4,Nebraska,Nebraska Source 4,https://sfm.nebraska.gov/fuels-safety/pipeline-safety,body
+nebraska-5,Nebraska,Nebraska Source 5,https://psc.nebraska.gov/,body
+nebraska-6,Nebraska,Nebraska Source 6,https://psc.nebraska.gov/sites/default/files/doc/administration/Updated_RRs/2024_Updates/Chapter%209%20-%20Natural%20Gas%20and%20Oil%20Pipelines%20Rules%20and%20Regulations_1.pdf,body
+nebraska-7,Nebraska,Nebraska Source 7,https://belf.nebraska.gov/oil_gas_leasing.html,body
+nebraska-8,Nebraska,Nebraska Source 8,https://publicworks.cityofomaha.org/oaqc-omaha-air-quality-control/,body
+nebraska-9,Nebraska,Nebraska Source 9,https://www.lincoln.ne.gov/City/Departments/Health-Department/Environmental/Air,body
+nevada-0,Nevada,Nevada Source 0,https://minerals.nv.gov/Programs/OG/OG/,body
+nevada-1,Nevada,Nevada Source 1,https://puc.nv.gov/Safety/Pipeline/,body
+nevada-2,Nevada,Nevada Source 2,https://ndep.nv.gov/air/permitting,body
+nevada-3,Nevada,Nevada Source 3,https://ndep.nv.gov/water/water-pollution-control/permitting,body
+nevada-4,Nevada,Nevada Source 4,https://lands.nv.gov/,body
+nevada-5,Nevada,Nevada Source 5,https://www.clarkcountynv.gov/government/departments/environment_and_sustainability/division_of_air_quality/permitting/,body
+nevada-6,Nevada,Nevada Source 6,https://www.nnph.org/programs-and-services/air-quality/index.php,body
+new-hampshire-0,New Hampshire,New Hampshire Source 0,https://www.energy.nh.gov/enforcement/pipeline-safety/pipeline-safety-overview,body
+new-hampshire-1,New Hampshire,New Hampshire Source 1,https://www.energy.nh.gov/enforcement/pipeline-safety/enforcement-program,body
+new-hampshire-2,New Hampshire,New Hampshire Source 2,https://www.des.nh.gov/air/industrial-sources/permit-guidance,body
+new-hampshire-3,New Hampshire,New Hampshire Source 3,https://onlineforms.nh.gov/home/094d9dd2-c1de-4882-9414-c0807677d0ed,body
+new-hampshire-4,New Hampshire,New Hampshire Source 4,https://www4.des.state.nh.us/DESOnestop/BasicSearch.aspx,body
+new-hampshire-5,New Hampshire,New Hampshire Source 5,https://www.epa.gov/npdes-permits/new-hampshire-npdes-permits,body
+new-hampshire-6,New Hampshire,New Hampshire Source 6,https://www.des.nh.gov/waste/wastewater/npdes-permits-and-compliance,body
+new-hampshire-7,New Hampshire,New Hampshire Source 7,https://www.des.nh.gov/water/coastal-waters/federal-consistency,body
+new-jersey-0,New Jersey,New Jersey Source 0,https://www.nj.gov/bpu/about/divisions/reliability,body
+new-jersey-1,New Jersey,New Jersey Source 1,https://dep.nj.gov/boss/air-permitting-guidance/,body
+new-jersey-2,New Jersey,New Jersey Source 2,https://dep.nj.gov/boss/general-permits/,body
+new-jersey-3,New Jersey,New Jersey Source 3,https://dep.nj.gov/boss/general-permits/general-operating-permits/,body
+new-jersey-4,New Jersey,New Jersey Source 4,https://www.epa.gov/caa-permitting/clean-air-permitting-new-jersey,body
+new-jersey-5,New Jersey,New Jersey Source 5,https://dep.nj.gov/dwq/wastewater/,body
+new-jersey-6,New Jersey,New Jersey Source 6,https://www.epa.gov/npdes-permits/new-jersey-npdes-permits,body
+new-jersey-7,New Jersey,New Jersey Source 7,https://www.nj.gov/dep/cmp/czm_federal.html,body
+new-jersey-8,New Jersey,New Jersey Source 8,https://njems.nj.gov/DataMiner/Search/SearchByCategory?catName=Air+Quality+Permitting+and+Reporting&getCategory=y&isExternal=y,body
+new-jersey-9,New Jersey,New Jersey Source 9,https://njems.nj.gov/DataMiner/Search/SearchByCategory,body
+new-mexico-0,New Mexico,New Mexico Source 0,https://www.emnrd.nm.gov/ocd/,body
+new-mexico-1,New Mexico,New Mexico Source 1,https://www.env.nm.gov/air-quality/permitting-section-home-page/,body
+new-mexico-2,New Mexico,New Mexico Source 2,https://www.env.nm.gov/surface-water-quality/point-source-regulation-section/,body
+new-mexico-3,New Mexico,New Mexico Source 3,https://www.env.nm.gov/gwqb/permits/,body
+new-mexico-4,New Mexico,New Mexico Source 4,https://www.prc.nm.gov/pipeline-safety-bureau/pipeline-safety/,body
+new-mexico-5,New Mexico,New Mexico Source 5,https://www.nmstatelands.org/divisions/oil-gas-and-minerals/lease-information/,body
+new-mexico-6,New Mexico,New Mexico Source 6,https://www.cabq.gov/airquality/air-quality-permits,body
+new-york-0,New York,New York Source 0,https://dec.ny.gov/environmental-protection/oil-gas,body
+new-york-1,New York,New York Source 1,https://dec.ny.gov/environmental-protection/oil-gas/well-owner-and-applicants-information-center/well-permit-application-process,body
+new-york-2,New York,New York Source 2,https://dec.ny.gov/regulatory/permits-licenses/air,body
+new-york-3,New York,New York Source 3,https://dec.ny.gov/environmental-protection/air-quality/controlling-pollution-from-facilities/permits-registrations-fees,body
+new-york-4,New York,New York Source 4,https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program,body
+new-york-5,New York,New York Source 5,https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program/application-procedures-forms,body
+new-york-6,New York,New York Source 6,https://www.epa.gov/npdes-permits/new-york-npdes-permits,body
+new-york-7,New York,New York Source 7,https://dps.ny.gov/nys-pipeline-safety-program,body
+north-carolina-0,North Carolina,North Carolina Source 0,https://www.deq.nc.gov/energy-climate/oil-and-gas-program,body
+north-carolina-1,North Carolina,North Carolina Source 1,https://www.deq.nc.gov/energy-climate/oil-and-gas-program/nc-oil-and-gas-commission,body
+north-carolina-2,North Carolina,North Carolina Source 2,https://www.deq.nc.gov/about/divisions/air-quality/air-quality-permitting,body
+north-carolina-3,North Carolina,North Carolina Source 3,https://www.deq.nc.gov/about/divisions/air-quality/air-quality-planning/air-quality-rules-regulations/rules/section-0500-title-v-procedures,body
+north-carolina-4,North Carolina,North Carolina Source 4,https://www.deq.nc.gov/about/divisions/water-resources/water-quality-permitting/npdes-wastewater,body
+north-carolina-5,North Carolina,North Carolina Source 5,https://www.epa.gov/npdes-permits/north-carolina-npdes-permits,body
+north-carolina-6,North Carolina,North Carolina Source 6,https://www.ncuc.gov/industries/naturalgas/pipelinesafety.html,body
+north-carolina-7,North Carolina,North Carolina Source 7,https://airquality.mecknc.gov/,body
+north-carolina-8,North Carolina,North Carolina Source 8,https://www.forsyth.cc/eap/permitting.aspx,body
+north-dakota-0,North Dakota,North Dakota Source 0,https://www.dmr.nd.gov/oilgas/,body
+north-dakota-1,North Dakota,North Dakota Source 1,https://deq.nd.gov/aq/permitting/,body
+north-dakota-2,North Dakota,North Dakota Source 2,https://deq.nd.gov/WQ/2_NDPDES_Permits/,body
+north-dakota-3,North Dakota,North Dakota Source 3,https://psc.nd.gov/jurisdiction/pipelines/,body
+north-dakota-4,North Dakota,North Dakota Source 4,https://www.land.nd.gov/minerals-management,body
+ohio-0,Ohio,Ohio Source 0,https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/division-of-oil-and-gas,body
+ohio-1,Ohio,Ohio Source 1,https://ohiodnr.gov/wps/portal/gov/odnr/buy-and-apply/regulatory-permits/oil-and-gas-permits,body
+ohio-2,Ohio,Ohio Source 2,https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/oil-gas-resources/permit-application,body
+ohio-3,Ohio,Ohio Source 3,https://ohiodnr.gov/business-and-industry/municipalities-and-public-entities/commissions-and-councils/oil-gas-land-management-commission,body
+ohio-4,Ohio,Ohio Source 4,https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting/applying-for-an-air-pollution-control-permit,body
+ohio-5,Ohio,Ohio Source 5,https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting,body
+ohio-6,Ohio,Ohio Source 6,https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/npdes-general-permits,body
+ohio-7,Ohio,Ohio Source 7,https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/individual-wastewater-discharge-permits,body
+ohio-8,Ohio,Ohio Source 8,https://puco.ohio.gov/utilities/gas/resources/natural-gas-pipeline-safety-in-ohio,body
+ohio-9,Ohio,Ohio Source 9,https://puco.ohio.gov/utilities/gas/resources/gps-reporting-requirements,body
+ohio-10,Ohio,Ohio Source 10,https://www.southwestohioair.org/special_programs/permits.php,body
+ohio-11,Ohio,Ohio Source 11,https://www.clevelandhealth.org/programs/air/permitting/,body
+oklahoma-0,Oklahoma,Oklahoma Source 0,https://oklahoma.gov/occ/divisions/oil-gas.html,body
+oklahoma-1,Oklahoma,Oklahoma Source 1,https://oklahoma.gov/occ/divisions/public-utility/pipeline-safety.html,body
+oklahoma-2,Oklahoma,Oklahoma Source 2,https://www.deq.ok.gov/air-quality-division/air-permits/,body
+oklahoma-3,Oklahoma,Oklahoma Source 3,https://www.deq.ok.gov/water-quality-division/permitting/,body
+oklahoma-4,Oklahoma,Oklahoma Source 4,https://clo.ok.gov/services/minerals-leasing/,body
+oregon-0,Oregon,Oregon Source 0,https://www.oregon.gov/puc/safety/pages/gas-pipeline-safety.aspx,body
+oregon-1,Oregon,Oregon Source 1,https://www.oregon.gov/deq/aq/aqpermits/pages/default.aspx,body
+oregon-2,Oregon,Oregon Source 2,https://www.oregon.gov/deq/aq/aqpermits/pages/tvrule.aspx,body
+oregon-3,Oregon,Oregon Source 3,https://www.lrapa-or.gov/air-quality-protection/permitting-lane-county-sources/,body
+oregon-4,Oregon,Oregon Source 4,https://www.lrapa-or.gov/forms/,body
+oregon-5,Oregon,Oregon Source 5,https://www.oregon.gov/deq/wq/wqpermits/pages/default.aspx,body
+oregon-6,Oregon,Oregon Source 6,https://www.oregon.gov/deq/permits/pages/npdeswpcf-in-ydo.aspx,body
+oregon-7,Oregon,Oregon Source 7,https://www.epa.gov/npdes-permits/oregon-npdes-permits,body
+oregon-8,Oregon,Oregon Source 8,https://www.oregon.gov/deq/get-involved/pages/public-notices.aspx,body
+oregon-9,Oregon,Oregon Source 9,https://www.epa.gov/caa-permitting/clean-air-act-permitting-authorities-oregon,body
+oregon-10,Oregon,Oregon Source 10,https://www.oregon.gov/lcd/ocmp/pages/federal-consistency.aspx,body
+pennsylvania-0,Pennsylvania,Pennsylvania Source 0,https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas.html,body
+pennsylvania-1,Pennsylvania,Pennsylvania Source 1,https://www.pa.gov/agencies/dep/programs-and-services/business/air-quality-permits.html,body
+pennsylvania-2,Pennsylvania,Pennsylvania Source 2,https://www.pa.gov/services/dep/water/clean-water/apply-for-national-pollutant-discharge-elimination-system-npdes-permits.html,body
+pennsylvania-3,Pennsylvania,Pennsylvania Source 3,https://www.puc.pa.gov/pipeline-safety/jurisdiction-regulations/,body
+pennsylvania-4,Pennsylvania,Pennsylvania Source 4,https://www.puc.pa.gov/pipeline-safety/act-127-pipeline-act/,body
+pennsylvania-5,Pennsylvania,Pennsylvania Source 5,https://www.pa.gov/agencies/dcnr/conservation/forests-and-tree/natural-gas-drilling-impact.html,body
+pennsylvania-6,Pennsylvania,Pennsylvania Source 6,https://www.alleghenycounty.us/Services/Health-Department/Air-Quality/Air-Quality-Permitting,body
+pennsylvania-7,Pennsylvania,Pennsylvania Source 7,https://www.phila.gov/documents/air-management-services-permits-and-licenses/,body
+rhode-island-0,Rhode Island,Rhode Island Source 0,https://ripuc.ri.gov/utility-information/natural-gas/ridpuc-pipeline-safety,body
+rhode-island-1,Rhode Island,Rhode Island Source 1,https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits,body
+rhode-island-2,Rhode Island,Rhode Island Source 2,https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits/operating-permits,body
+rhode-island-3,Rhode Island,Rhode Island Source 3,https://dem.ri.gov/environmental-protection-bureau/water-resources/permitting/ripdes,body
+rhode-island-4,Rhode Island,Rhode Island Source 4,https://www.epa.gov/npdes-permits/rhode-island-npdes-permits,body
+rhode-island-5,Rhode Island,Rhode Island Source 5,https://www.crmc.ri.gov/applicationforms.html,body
+rhode-island-6,Rhode Island,Rhode Island Source 6,https://www.crmc.ri.gov/aboutcrmc.html,body
+south-carolina-0,South Carolina,South Carolina Source 0,https://des.sc.gov/regulations/oil-and-gas-exploration-drilling-and-production,body
+south-carolina-1,South Carolina,South Carolina Source 1,https://des.sc.gov/sites/des/files/Library/Regulations/R.121-8.0_121-8.28.pdf,body
+south-carolina-2,South Carolina,South Carolina Source 2,https://www.scstatehouse.gov/code/t48c043.php,body
+south-carolina-3,South Carolina,South Carolina Source 3,https://des.sc.gov/programs/bureau-air-quality/air-quality-permits,body
+south-carolina-4,South Carolina,South Carolina Source 4,https://des.sc.gov/programs/bureau-air-quality/air-quality-permits/operating-permits-air,body
+south-carolina-5,South Carolina,South Carolina Source 5,https://des.sc.gov/permits-regulations/permit-central/all-forms-applications,body
+south-carolina-6,South Carolina,South Carolina Source 6,https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes,body
+south-carolina-7,South Carolina,South Carolina Source 7,https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-overview,body
+south-carolina-8,South Carolina,South Carolina Source 8,https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-general-permits,body
+south-carolina-9,South Carolina,South Carolina Source 9,https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-permit-stormwater,body
+south-carolina-10,South Carolina,South Carolina Source 10,https://ors.sc.gov/safety/pipeline-safety,body
+south-carolina-11,South Carolina,South Carolina Source 11,https://www.epa.gov/npdes-permits/south-carolina-npdes-permits,body
+south-dakota-0,South Dakota,South Dakota Source 0,https://puc.sd.gov/pipelinesafety/,body
+south-dakota-1,South Dakota,South Dakota Source 1,https://danr.sd.gov/Environment/AirQuality/PermitForms/default.aspx,body
+south-dakota-2,South Dakota,South Dakota Source 2,https://www.epa.gov/caa-permitting/caa-permitting-south-dakota,body
+south-dakota-3,South Dakota,South Dakota Source 3,https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/swdpermitting/swdpermitting.aspx,body
+south-dakota-4,South Dakota,South Dakota Source 4,https://www.epa.gov/npdes-permits/south-dakota-npdes-permits,body
+south-dakota-5,South Dakota,South Dakota Source 5,https://danr.sd.gov/public/,body
+tennessee-0,Tennessee,Tennessee Source 0,https://www.tn.gov/environment/mineral-geologic.html,body
+tennessee-1,Tennessee,Tennessee Source 1,https://www.tn.gov/environment/permit-permits/mineral-geologic.html,body
+tennessee-2,Tennessee,Tennessee Source 2,https://www.tn.gov/environment/about-tdec/fin-financial-responsibility/financial-assurance/fin-financial-instruments-home/fin-oil-gas.html,body
+tennessee-3,Tennessee,Tennessee Source 3,https://www.tn.gov/environment/permit-permits/air-permits.html,body
+tennessee-4,Tennessee,Tennessee Source 4,https://www.tn.gov/environment/permit-permits/air-permits/operating/title5-operating.html,body
+tennessee-5,Tennessee,Tennessee Source 5,https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits1/national-pollutant-discharge-elimination-system--npdes--permit.html,body
+tennessee-6,Tennessee,Tennessee Source 6,https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits.html,body
+tennessee-7,Tennessee,Tennessee Source 7,https://www.epa.gov/npdes-permits/tennessee-npdes-permits,body
+tennessee-8,Tennessee,Tennessee Source 8,https://www.tn.gov/tpuc/divisions/gas-pipeline-safety-division.html,body
+tennessee-9,Tennessee,Tennessee Source 9,https://primis.phmsa.dot.gov/comm/FactSheets/States/TN_State_PL_Safety_Regulatory_Fact_Sheet.htm,body
+tennessee-10,Tennessee,Tennessee Source 10,https://www.tn.gov/environment/about-tdec/boards-and-commissions/board-tennessee-board-of-water-quality--oil-and-gas.html,body
+texas-0,Texas,Texas Source 0,https://www.rrc.texas.gov/oil-and-gas/,body
+texas-1,Texas,Texas Source 1,https://www.rrc.texas.gov/pipeline-safety/,body
+texas-2,Texas,Texas Source 2,https://www.tceq.texas.gov/permitting/air,body
+texas-3,Texas,Texas Source 3,https://www.tceq.texas.gov/permitting/wastewater/pretreatment/tpdes_definition.html,body
+texas-4,Texas,Texas Source 4,https://www.glo.texas.gov/energy/mineral-leasing/leasing,body
+texas-5,Texas,Texas Source 5,https://www.glo.texas.gov/coastal/oil-spill-prevention-and-response,body
+texas-6,Texas,Texas Source 6,https://www.puc.texas.gov/,body
+texas-7,Texas,Texas Source 7,https://www.tdi.texas.gov/fire/fmfsinotices.html,body
+texas-8,Texas,Texas Source 8,https://www.tdi.texas.gov/rules/2023/documents/20237848.pdf,body
+texas-9,Texas,Texas Source 9,https://www.tceq.texas.gov/downloads/rules/adoptions/22015338_ado.pdf,body
+texas-10,Texas,Texas Source 10,https://services.austintexas.gov/edims/document.cfm?id=432220,body
+utah-0,Utah,Utah Source 0,https://ogm.utah.gov/,body
+utah-1,Utah,Utah Source 1,https://deq.utah.gov/air-quality/air-quality-permitting,body
+utah-2,Utah,Utah Source 2,https://deq.utah.gov/water-quality/current-permits-and-forms-updes-permitting-program,body
+utah-3,Utah,Utah Source 3,https://deq.utah.gov/water-quality/storm-water-permits-updes-permits,body
+utah-4,Utah,Utah Source 4,https://dpu.utah.gov/pipeline-safety/,body
+utah-5,Utah,Utah Source 5,https://trustlands.utah.gov/work-with-us/energy-minerals/,body
+vermont-0,Vermont,Vermont Source 0,https://publicservice.vermont.gov/naturalgas_propane,body
+vermont-1,Vermont,Vermont Source 1,https://www.epa.gov/caa-permitting/caa-permitting-vermont,body
+vermont-2,Vermont,Vermont Source 2,https://anrweb.vt.gov/DEC/AirFacilities/PublicSearch.aspx,body
+vermont-3,Vermont,Vermont Source 3,https://anronline.vermont.gov/Home/db48e104-7c4c-4d80-9d47-e8d05da3f707,body
+vermont-4,Vermont,Vermont Source 4,https://www.epa.gov/caa-permitting/title-v-program-evaluations-vermont,body
+vermont-5,Vermont,Vermont Source 5,https://www.epa.gov/npdes-permits/vermont-npdes-permits,body
+vermont-6,Vermont,Vermont Source 6,https://anrweb.vt.gov/Pubdocs/DEC/ENB/ENB_V2/16329-VT%20NPDES%20PGP_Factsheet_2022.pdf,body
+vermont-7,Vermont,Vermont Source 7,https://enb.vermont.gov/,body
+virginia-0,Virginia,Virginia Source 0,https://energy.virginia.gov/gas-oil/gasoil.shtml,body
+virginia-1,Virginia,Virginia Source 1,https://energy.virginia.gov/gas-oil/PermitRequirements.shtml,body
+virginia-2,Virginia,Virginia Source 2,https://www.energy.virginia.gov/dgoinquiry/frmmain.aspx,body
+virginia-3,Virginia,Virginia Source 3,https://energy.virginia.gov/gas-oil/OwnerRights.shtml,body
+virginia-4,Virginia,Virginia Source 4,https://www.deq.virginia.gov/permits/air,body
+virginia-5,Virginia,Virginia Source 5,https://www.deq.virginia.gov/permits/air/forms,body
+virginia-6,Virginia,Virginia Source 6,https://www.deq.virginia.gov/permits/air/issued-title-v-permits,body
+virginia-7,Virginia,Virginia Source 7,https://www.deq.virginia.gov/permits/water/surface-waters-vpdes,body
+virginia-8,Virginia,Virginia Source 8,https://www.deq.virginia.gov/permits/water/ms4,body
+virginia-9,Virginia,Virginia Source 9,https://www.epa.gov/npdes-permits/virginia-npdes-permits,body
+virginia-10,Virginia,Virginia Source 10,https://www.scc.virginia.gov/regulated-industries/utility-railroad-safety/pipeline-safety/,body
+washington-0,Washington,Washington Source 0,https://www.utc.wa.gov/public-safety/pipeline-safety,body
+washington-1,Washington,Washington Source 1,https://ecology.wa.gov/regulations-permits/permits-certifications/air-quality-permits,body
+washington-2,Washington,Washington Source 2,https://ecology.wa.gov/about-us/accountability-transparency/partnerships-committees/clean-air-agencies,body
+washington-3,Washington,Washington Source 3,https://pscleanair.gov/101/Permits-Registration,body
+washington-4,Washington,Washington Source 4,https://spokanecleanair.org/for-business/notice-of-construction/,body
+washington-5,Washington,Washington Source 5,https://www.yakimacleanair.org/services/forms.html,body
+washington-6,Washington,Washington Source 6,https://www.orcaa.org/,body
+washington-7,Washington,Washington Source 7,https://nwcleanairwa.gov/permits-and-services/,body
+washington-8,Washington,Washington Source 8,https://www.swcleanair.gov/permits/,body
+washington-9,Washington,Washington Source 9,https://bentoncleanair.org/for-business/notice-of-construction/,body
+washington-10,Washington,Washington Source 10,https://ecology.wa.gov/water-shorelines/water-quality/water-quality-permits,body
+washington-11,Washington,Washington Source 11,https://www.epa.gov/npdes-permits/washington-npdes-permits,body
+washington-12,Washington,Washington Source 12,https://ecology.wa.gov/water-shorelines/shoreline-coastal-management/coastal-zone-management/federal-consistency,body
+west-virginia-0,West Virginia,West Virginia Source 0,https://dep.wv.gov/oil-and-gas,body
+west-virginia-1,West Virginia,West Virginia Source 1,https://dep.wv.gov/daq/permitting/,body
+west-virginia-2,West Virginia,West Virginia Source 2,https://dep.wv.gov/WWE/permit/npdes/Pages/default.aspx,body
+west-virginia-3,West Virginia,West Virginia Source 3,https://www.psc.state.wv.us/div/gaspipelinesafety.htm,body
+west-virginia-4,West Virginia,West Virginia Source 4,https://ogcc.wv.gov/,body
+west-virginia-5,West Virginia,West Virginia Source 5,https://wvdnr.gov/lands-waters/office-of-lands-and-streams/,body
+wisconsin-0,Wisconsin,Wisconsin Source 0,https://psc.wi.gov/Pages/ServiceType/Energy/PipelineSafetyProgram.aspx,body
+wisconsin-1,Wisconsin,Wisconsin Source 1,https://dnr.wisconsin.gov/topic/AirPermits,body
+wisconsin-2,Wisconsin,Wisconsin Source 2,https://dnr.wisconsin.gov/topic/AirPermits/Options.html,body
+wisconsin-3,Wisconsin,Wisconsin Source 3,https://www.epa.gov/caa-permitting/clean-air-act-permitting-wisconsin,body
+wisconsin-4,Wisconsin,Wisconsin Source 4,https://dnr.wisconsin.gov/topic/AirPermits/PublicInvolvement,body
+wisconsin-5,Wisconsin,Wisconsin Source 5,https://dnr.wisconsin.gov/topic/Wastewater/Permits.html,body
+wisconsin-6,Wisconsin,Wisconsin Source 6,https://dnr.wisconsin.gov/topic/Wastewater/PermitLists.html,body
+wisconsin-7,Wisconsin,Wisconsin Source 7,https://www.epa.gov/npdes-permits/wisconsin-npdes-permits,body
+wisconsin-8,Wisconsin,Wisconsin Source 8,https://doa.wi.gov/Pages/LocalGovtsGrants/CoastalFederalConsistency.aspx,body
+wyoming-0,Wyoming,Wyoming Source 0,https://wogcc.wyo.gov,body
+wyoming-1,Wyoming,Wyoming Source 1,https://deq.wyoming.gov/aqd/,body
+wyoming-2,Wyoming,Wyoming Source 2,https://deq.wyoming.gov/water-quality/wypdes/discharge-permitting/,body
+wyoming-3,Wyoming,Wyoming Source 3,https://psc.wyo.gov/pipeline,body
+wyoming-4,Wyoming,Wyoming Source 4,https://lands.wyo.gov/trust-land-management/mineral-leasing/oil-gas-leases,body

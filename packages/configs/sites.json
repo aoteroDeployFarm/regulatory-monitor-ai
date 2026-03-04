@@ -1,0 +1,3208 @@
+[
+  {
+    "id": "alabama-0",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 0",
+    "url": "https://www.gsa.state.al.us/ogb",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-1",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 1",
+    "url": "https://www.gsa.state.al.us/ogb/wells",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-2",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 2",
+    "url": "https://adem.alabama.gov/air/air-permitting",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-3",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 3",
+    "url": "https://adem.alabama.gov/air",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-4",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 4",
+    "url": "https://adem.alabama.gov/water/npdes-programs/npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-5",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 5",
+    "url": "https://adem.alabama.gov/water/npdes-programs/construction-general-permit",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-6",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 6",
+    "url": "https://www.epa.gov/npdes-permits/alabama-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-7",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 7",
+    "url": "https://psc.alabama.gov/gas-pipeline-safety/",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-8",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 8",
+    "url": "https://apsc.alabama.gov/Energy/GPS/gas_pipeline_safety_section.htm",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-9",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 9",
+    "url": "https://www.jcdh.org/SitePages/Misc/TitleVAirPermits.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-10",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 10",
+    "url": "https://www.jcdh.org/SitePages/Programs-Services/EnvironmentalHealth/Air-RadiationProtectionDivision/RegAirFac.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-11",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 11",
+    "url": "https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-12",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 12",
+    "url": "https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/air-permit/",
+    "selector": "body"
+  },
+  {
+    "id": "alabama-13",
+    "jurisdiction": "Alabama",
+    "name": "Alabama Source 13",
+    "url": "https://www.huntsvilleal.gov/business/licensing-permits/environment-licenses/air-permits/",
+    "selector": "body"
+  },
+  {
+    "id": "alaska-0",
+    "jurisdiction": "Alaska",
+    "name": "Alaska Source 0",
+    "url": "https://www.commerce.alaska.gov/web/aogcc/",
+    "selector": "body"
+  },
+  {
+    "id": "alaska-1",
+    "jurisdiction": "Alaska",
+    "name": "Alaska Source 1",
+    "url": "https://dog.dnr.alaska.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "alaska-2",
+    "jurisdiction": "Alaska",
+    "name": "Alaska Source 2",
+    "url": "https://dog.dnr.alaska.gov/LeaseSale",
+    "selector": "body"
+  },
+  {
+    "id": "alaska-3",
+    "jurisdiction": "Alaska",
+    "name": "Alaska Source 3",
+    "url": "https://dec.alaska.gov/air/air-permit/",
+    "selector": "body"
+  },
+  {
+    "id": "alaska-4",
+    "jurisdiction": "Alaska",
+    "name": "Alaska Source 4",
+    "url": "https://dec.alaska.gov/water/wastewater/",
+    "selector": "body"
+  },
+  {
+    "id": "alaska-5",
+    "jurisdiction": "Alaska",
+    "name": "Alaska Source 5",
+    "url": "https://www.epa.gov/npdes-permits/alaska-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "alaska-6",
+    "jurisdiction": "Alaska",
+    "name": "Alaska Source 6",
+    "url": "https://dec.alaska.gov/spar/ppr/contingency-plans/",
+    "selector": "body"
+  },
+  {
+    "id": "alaska-7",
+    "jurisdiction": "Alaska",
+    "name": "Alaska Source 7",
+    "url": "https://rca.alaska.gov/RCAWeb/home.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-0",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 0",
+    "url": "https://azogcc.az.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-1",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 1",
+    "url": "https://azogcc.az.gov/permits",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-2",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 2",
+    "url": "https://azcc.gov/safety/pipeline-safety/pipeline",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-3",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 3",
+    "url": "https://azdeq.gov/air-permits-comp",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-4",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 4",
+    "url": "https://azdeq.gov/permits/AZPDES/IND",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-5",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 5",
+    "url": "https://azdeq.gov/SWPPermitting",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-6",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 6",
+    "url": "https://land.az.gov/applications-permits",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-7",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 7",
+    "url": "https://www.maricopa.gov/1818/Permits-Forms-and-Payments",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-8",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 8",
+    "url": "https://www.pima.gov/439/Air-Quality-Permits",
+    "selector": "body"
+  },
+  {
+    "id": "arizona-9",
+    "jurisdiction": "Arizona",
+    "name": "Arizona Source 9",
+    "url": "https://www.pinal.gov/1255/Permitting",
+    "selector": "body"
+  },
+  {
+    "id": "arkansas-0",
+    "jurisdiction": "Arkansas",
+    "name": "Arkansas Source 0",
+    "url": "https://ee.arkansas.gov/energy/oil-gas-commission/",
+    "selector": "body"
+  },
+  {
+    "id": "arkansas-1",
+    "jurisdiction": "Arkansas",
+    "name": "Arkansas Source 1",
+    "url": "https://www.aogc.state.ar.us/",
+    "selector": "body"
+  },
+  {
+    "id": "arkansas-2",
+    "jurisdiction": "Arkansas",
+    "name": "Arkansas Source 2",
+    "url": "https://www.adeq.state.ar.us/air/permits/",
+    "selector": "body"
+  },
+  {
+    "id": "arkansas-3",
+    "jurisdiction": "Arkansas",
+    "name": "Arkansas Source 3",
+    "url": "https://ee.arkansas.gov/environment/office-of-air-quality/",
+    "selector": "body"
+  },
+  {
+    "id": "arkansas-4",
+    "jurisdiction": "Arkansas",
+    "name": "Arkansas Source 4",
+    "url": "https://www.adeq.state.ar.us/water/permits/npdes/",
+    "selector": "body"
+  },
+  {
+    "id": "arkansas-5",
+    "jurisdiction": "Arkansas",
+    "name": "Arkansas Source 5",
+    "url": "https://www.epa.gov/npdes-permits/arkansas-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "arkansas-6",
+    "jurisdiction": "Arkansas",
+    "name": "Arkansas Source 6",
+    "url": "https://apsc.arkansas.gov/utilities/pipeline-safety/",
+    "selector": "body"
+  },
+  {
+    "id": "california-0",
+    "jurisdiction": "California",
+    "name": "California Source 0",
+    "url": "https://www.conservation.ca.gov/calgem",
+    "selector": "body"
+  },
+  {
+    "id": "california-1",
+    "jurisdiction": "California",
+    "name": "California Source 1",
+    "url": "https://www.energy.ca.gov",
+    "selector": "body"
+  },
+  {
+    "id": "california-2",
+    "jurisdiction": "California",
+    "name": "California Source 2",
+    "url": "https://www.cpuc.ca.gov",
+    "selector": "body"
+  },
+  {
+    "id": "california-3",
+    "jurisdiction": "California",
+    "name": "California Source 3",
+    "url": "https://ww2.arb.ca.gov",
+    "selector": "body"
+  },
+  {
+    "id": "california-4",
+    "jurisdiction": "California",
+    "name": "California Source 4",
+    "url": "https://calepa.ca.gov",
+    "selector": "body"
+  },
+  {
+    "id": "california-5",
+    "jurisdiction": "California",
+    "name": "California Source 5",
+    "url": "https://www.slc.ca.gov/oil-gas",
+    "selector": "body"
+  },
+  {
+    "id": "california-6",
+    "jurisdiction": "California",
+    "name": "California Source 6",
+    "url": "https://www.dir.ca.gov/dosh/",
+    "selector": "body"
+  },
+  {
+    "id": "california-7",
+    "jurisdiction": "California",
+    "name": "California Source 7",
+    "url": "https://www.waterboards.ca.gov",
+    "selector": "body"
+  },
+  {
+    "id": "california-8",
+    "jurisdiction": "California",
+    "name": "California Source 8",
+    "url": "https://osfm.fire.ca.gov/divisions/pipeline-safety-division/",
+    "selector": "body"
+  },
+  {
+    "id": "california-9",
+    "jurisdiction": "California",
+    "name": "California Source 9",
+    "url": "http://www.aqmd.gov",
+    "selector": "body"
+  },
+  {
+    "id": "california-10",
+    "jurisdiction": "California",
+    "name": "California Source 10",
+    "url": "https://www.baaqmd.gov",
+    "selector": "body"
+  },
+  {
+    "id": "california-11",
+    "jurisdiction": "California",
+    "name": "California Source 11",
+    "url": "https://www.valleyair.org",
+    "selector": "body"
+  },
+  {
+    "id": "california-12",
+    "jurisdiction": "California",
+    "name": "California Source 12",
+    "url": "http://www.airquality.org",
+    "selector": "body"
+  },
+  {
+    "id": "california-13",
+    "jurisdiction": "California",
+    "name": "California Source 13",
+    "url": "https://www.sdapcd.org",
+    "selector": "body"
+  },
+  {
+    "id": "california-14",
+    "jurisdiction": "California",
+    "name": "California Source 14",
+    "url": "https://www.vcapcd.org",
+    "selector": "body"
+  },
+  {
+    "id": "california-15",
+    "jurisdiction": "California",
+    "name": "California Source 15",
+    "url": "https://www.ourair.org",
+    "selector": "body"
+  },
+  {
+    "id": "california-16",
+    "jurisdiction": "California",
+    "name": "California Source 16",
+    "url": "https://www.mbard.org",
+    "selector": "body"
+  },
+  {
+    "id": "california-17",
+    "jurisdiction": "California",
+    "name": "California Source 17",
+    "url": "https://www.mdaqmd.ca.gov",
+    "selector": "body"
+  },
+  {
+    "id": "california-18",
+    "jurisdiction": "California",
+    "name": "California Source 18",
+    "url": "https://osfm.fire.ca.gov/what-we-do/code-development-and-analysis",
+    "selector": "body"
+  },
+  {
+    "id": "california-19",
+    "jurisdiction": "California",
+    "name": "California Source 19",
+    "url": "https://www.dgs.ca.gov/-/media/Divisions/BSC/03-Rulemaking/2024-Triennial-Cycle/CAC/2024-07-09-BFO/SFM-06-24-ISOR-PT9.pdf",
+    "selector": "body"
+  },
+  {
+    "id": "california-20",
+    "jurisdiction": "California",
+    "name": "California Source 20",
+    "url": "https://codes.iccsafe.org/content/CAFC2022P3/chapter-1-scope-and-administration",
+    "selector": "body"
+  },
+  {
+    "id": "colorado-0",
+    "jurisdiction": "Colorado",
+    "name": "Colorado Source 0",
+    "url": "https://ecmc.state.co.us",
+    "selector": "body"
+  },
+  {
+    "id": "colorado-1",
+    "jurisdiction": "Colorado",
+    "name": "Colorado Source 1",
+    "url": "https://cdphe.colorado.gov/apens-and-air-permits",
+    "selector": "body"
+  },
+  {
+    "id": "colorado-2",
+    "jurisdiction": "Colorado",
+    "name": "Colorado Source 2",
+    "url": "https://cdphe.colorado.gov/water-quality",
+    "selector": "body"
+  },
+  {
+    "id": "colorado-3",
+    "jurisdiction": "Colorado",
+    "name": "Colorado Source 3",
+    "url": "https://puc.colorado.gov",
+    "selector": "body"
+  },
+  {
+    "id": "colorado-4",
+    "jurisdiction": "Colorado",
+    "name": "Colorado Source 4",
+    "url": "https://slb.colorado.gov/lease/oil-gas",
+    "selector": "body"
+  },
+  {
+    "id": "connecticut-0",
+    "jurisdiction": "Connecticut",
+    "name": "Connecticut Source 0",
+    "url": "https://portal.ct.gov/PURA/Gas-Pipeline-Safety/Gas-Pipeline-Safety",
+    "selector": "body"
+  },
+  {
+    "id": "connecticut-1",
+    "jurisdiction": "Connecticut",
+    "name": "Connecticut Source 1",
+    "url": "https://portal.ct.gov/deep/air/permits/air-permits",
+    "selector": "body"
+  },
+  {
+    "id": "connecticut-2",
+    "jurisdiction": "Connecticut",
+    "name": "Connecticut Source 2",
+    "url": "https://portal.ct.gov/DEEP/Air/Permits/Title-V-Operating-Permit-Program",
+    "selector": "body"
+  },
+  {
+    "id": "connecticut-3",
+    "jurisdiction": "Connecticut",
+    "name": "Connecticut Source 3",
+    "url": "https://portal.ct.gov/DEEP/Air/Permits/Air-Permitting-Assistance",
+    "selector": "body"
+  },
+  {
+    "id": "connecticut-4",
+    "jurisdiction": "Connecticut",
+    "name": "Connecticut Source 4",
+    "url": "https://portal.ct.gov/deep/permits-and-licenses/water-discharge-permits-and-general-permits",
+    "selector": "body"
+  },
+  {
+    "id": "connecticut-5",
+    "jurisdiction": "Connecticut",
+    "name": "Connecticut Source 5",
+    "url": "https://portal.ct.gov/DEEP/Permits-and-Licenses/Factsheets-Water-Discharges/Wastewater-Discharges-Fact-Sheet",
+    "selector": "body"
+  },
+  {
+    "id": "connecticut-6",
+    "jurisdiction": "Connecticut",
+    "name": "Connecticut Source 6",
+    "url": "https://www.epa.gov/npdes-permits/connecticut-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "connecticut-7",
+    "jurisdiction": "Connecticut",
+    "name": "Connecticut Source 7",
+    "url": "https://filings.deep.ct.gov/DEEPPortal/PublicSearch/PSSearchView",
+    "selector": "body"
+  },
+  {
+    "id": "delaware-0",
+    "jurisdiction": "Delaware",
+    "name": "Delaware Source 0",
+    "url": "https://depsc.delaware.gov/pipeline-safety-program/",
+    "selector": "body"
+  },
+  {
+    "id": "delaware-1",
+    "jurisdiction": "Delaware",
+    "name": "Delaware Source 1",
+    "url": "https://dnrec.delaware.gov/air/permitting/",
+    "selector": "body"
+  },
+  {
+    "id": "delaware-2",
+    "jurisdiction": "Delaware",
+    "name": "Delaware Source 2",
+    "url": "https://dnrec.delaware.gov/air/permitting/major-air-sources/",
+    "selector": "body"
+  },
+  {
+    "id": "delaware-3",
+    "jurisdiction": "Delaware",
+    "name": "Delaware Source 3",
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-delaware",
+    "selector": "body"
+  },
+  {
+    "id": "delaware-4",
+    "jurisdiction": "Delaware",
+    "name": "Delaware Source 4",
+    "url": "https://dnrec.delaware.gov/water/commercial-government/npdes/",
+    "selector": "body"
+  },
+  {
+    "id": "delaware-5",
+    "jurisdiction": "Delaware",
+    "name": "Delaware Source 5",
+    "url": "https://www.epa.gov/npdes-permits/delaware-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "delaware-6",
+    "jurisdiction": "Delaware",
+    "name": "Delaware Source 6",
+    "url": "https://dnrec.delaware.gov/coastal-programs/coastal-management/federal-consistency/",
+    "selector": "body"
+  },
+  {
+    "id": "delaware-7",
+    "jurisdiction": "Delaware",
+    "name": "Delaware Source 7",
+    "url": "https://dnrec.delaware.gov/dnrec-public-notices/",
+    "selector": "body"
+  },
+  {
+    "id": "delaware-8",
+    "jurisdiction": "Delaware",
+    "name": "Delaware Source 8",
+    "url": "https://den.dnrec.delaware.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "florida-0",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 0",
+    "url": "https://www.floridapsc.com/pscfiles/website-files/PDF/Utilities/Electricgas/GasSafety//RuleBookletCh25-2025.pdf",
+    "selector": "body"
+  },
+  {
+    "id": "florida-1",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 1",
+    "url": "https://www.floridapsc.com/pscfiles/website-files/PDF/Publications/Reports/ElectricGas/Pipeline/2023.pdf",
+    "selector": "body"
+  },
+  {
+    "id": "florida-2",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 2",
+    "url": "https://floridadep.gov/air/permitting-compliance/content/air-permit-application",
+    "selector": "body"
+  },
+  {
+    "id": "florida-3",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 3",
+    "url": "https://floridadep.gov/air/permitting-compliance/documents/air-construction-permits",
+    "selector": "body"
+  },
+  {
+    "id": "florida-4",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 4",
+    "url": "https://floridadep.gov/air/permitting-compliance/documents/air-operation-permits",
+    "selector": "body"
+  },
+  {
+    "id": "florida-5",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 5",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-florida",
+    "selector": "body"
+  },
+  {
+    "id": "florida-6",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 6",
+    "url": "https://floridadep.gov/air/air-director/content/how-find-air-documents-online",
+    "selector": "body"
+  },
+  {
+    "id": "florida-7",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 7",
+    "url": "https://prodenv.dep.state.fl.us/DepNexus/public/searchPortal",
+    "selector": "body"
+  },
+  {
+    "id": "florida-8",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 8",
+    "url": "https://www.epa.gov/npdes-permits/florida-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "florida-9",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 9",
+    "url": "https://floridadep.gov/water/industrial-wastewater",
+    "selector": "body"
+  },
+  {
+    "id": "florida-10",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 10",
+    "url": "https://floridadep.gov/water/stormwater",
+    "selector": "body"
+  },
+  {
+    "id": "florida-11",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 11",
+    "url": "https://floridadep.gov/rcp/fcmp/content/federal-consistency-intergovernmental-coordination-and-review",
+    "selector": "body"
+  },
+  {
+    "id": "florida-12",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 12",
+    "url": "https://floridadep.gov/rcp/fcmp/content/about-florida-coastal-management-program",
+    "selector": "body"
+  },
+  {
+    "id": "florida-13",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 13",
+    "url": "https://floridadep.gov/air/air-director/content/local-program-air-contacts",
+    "selector": "body"
+  },
+  {
+    "id": "florida-14",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 14",
+    "url": "https://myfloridacfo.com/division/sfm/bfp/florida-fire-prevention-code",
+    "selector": "body"
+  },
+  {
+    "id": "florida-15",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 15",
+    "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699%2F0633%2FSections%2F0633.202.html",
+    "selector": "body"
+  },
+  {
+    "id": "florida-16",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 16",
+    "url": "https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-69A-3-012",
+    "selector": "body"
+  },
+  {
+    "id": "florida-17",
+    "jurisdiction": "Florida",
+    "name": "Florida Source 17",
+    "url": "https://www.myfloridacfo.com/docs-sf/state-fire-marshal-libraries/sfm-documents/bfp/local-amendments/2025-updated-procedure-and-information-for-adoption-of-local-amendments-.pdf?sfvrsn=c2059ec1_1",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-0",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 0",
+    "url": "https://epd.georgia.gov/chapter-391-3-13-rules-oil-and-gas-and-deep-drilling",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-1",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 1",
+    "url": "https://rules.sos.ga.gov/gac/391-3-13",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-2",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 2",
+    "url": "https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-3",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 3",
+    "url": "https://epd.georgia.gov/air-protection-branch-technical-guidance-0/types-air-quality-permits/title-v-permitting",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-4",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 4",
+    "url": "https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits/apply-air-permit",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-5",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 5",
+    "url": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-6",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 6",
+    "url": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-7",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 7",
+    "url": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant-0",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-8",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 8",
+    "url": "https://psc.ga.gov/facilities-protection/pipeline-safety/",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-9",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 9",
+    "url": "https://rules.sos.state.ga.us/gac/515-9-3",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-10",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 10",
+    "url": "https://gspc.georgia.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "georgia-11",
+    "jurisdiction": "Georgia",
+    "name": "Georgia Source 11",
+    "url": "https://law.justia.com/codes/georgia/title-50/chapter-16/article-2/section-50-16-43/",
+    "selector": "body"
+  },
+  {
+    "id": "hawaii-0",
+    "jurisdiction": "Hawaii",
+    "name": "Hawaii Source 0",
+    "url": "https://health.hawaii.gov/cab/permit-application-forms/",
+    "selector": "body"
+  },
+  {
+    "id": "hawaii-1",
+    "jurisdiction": "Hawaii",
+    "name": "Hawaii Source 1",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-hawaii-and-pacific-islands",
+    "selector": "body"
+  },
+  {
+    "id": "hawaii-2",
+    "jurisdiction": "Hawaii",
+    "name": "Hawaii Source 2",
+    "url": "https://health.hawaii.gov/cab/public-notices/",
+    "selector": "body"
+  },
+  {
+    "id": "hawaii-3",
+    "jurisdiction": "Hawaii",
+    "name": "Hawaii Source 3",
+    "url": "https://health.hawaii.gov/cwb/npdes-permits-and-how-to-apply/",
+    "selector": "body"
+  },
+  {
+    "id": "hawaii-4",
+    "jurisdiction": "Hawaii",
+    "name": "Hawaii Source 4",
+    "url": "https://www.epa.gov/npdes-permits/hawaii",
+    "selector": "body"
+  },
+  {
+    "id": "hawaii-5",
+    "jurisdiction": "Hawaii",
+    "name": "Hawaii Source 5",
+    "url": "https://health.hawaii.gov/cwb/clean-water-branch-home-page/public-notices-and-updates/",
+    "selector": "body"
+  },
+  {
+    "id": "hawaii-6",
+    "jurisdiction": "Hawaii",
+    "name": "Hawaii Source 6",
+    "url": "https://planning.hawaii.gov/czm/federal-consistency/",
+    "selector": "body"
+  },
+  {
+    "id": "idaho-0",
+    "jurisdiction": "Idaho",
+    "name": "Idaho Source 0",
+    "url": "https://ogcc.idaho.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "idaho-1",
+    "jurisdiction": "Idaho",
+    "name": "Idaho Source 1",
+    "url": "https://www.deq.idaho.gov/permits/air-quality-permitting/",
+    "selector": "body"
+  },
+  {
+    "id": "idaho-2",
+    "jurisdiction": "Idaho",
+    "name": "Idaho Source 2",
+    "url": "https://www.deq.idaho.gov/water-quality/wastewater/permit-options/",
+    "selector": "body"
+  },
+  {
+    "id": "idaho-3",
+    "jurisdiction": "Idaho",
+    "name": "Idaho Source 3",
+    "url": "https://www.epa.gov/npdes-permits/idaho-npdes-program-authorization",
+    "selector": "body"
+  },
+  {
+    "id": "idaho-4",
+    "jurisdiction": "Idaho",
+    "name": "Idaho Source 4",
+    "url": "https://puc.idaho.gov/Page/Utility/8",
+    "selector": "body"
+  },
+  {
+    "id": "idaho-5",
+    "jurisdiction": "Idaho",
+    "name": "Idaho Source 5",
+    "url": "https://www.idl.idaho.gov/leasing/oil-gas-leasing/",
+    "selector": "body"
+  },
+  {
+    "id": "illinois-0",
+    "jurisdiction": "Illinois",
+    "name": "Illinois Source 0",
+    "url": "https://dnr.illinois.gov/oilandgas.html",
+    "selector": "body"
+  },
+  {
+    "id": "illinois-1",
+    "jurisdiction": "Illinois",
+    "name": "Illinois Source 1",
+    "url": "https://dnr.illinois.gov/oilandgas/programsandregulations.html",
+    "selector": "body"
+  },
+  {
+    "id": "illinois-2",
+    "jurisdiction": "Illinois",
+    "name": "Illinois Source 2",
+    "url": "https://epa.illinois.gov/topics/forms/air-permits.html",
+    "selector": "body"
+  },
+  {
+    "id": "illinois-3",
+    "jurisdiction": "Illinois",
+    "name": "Illinois Source 3",
+    "url": "https://epa.illinois.gov/topics/forms/fees/clean-air-title-v.html",
+    "selector": "body"
+  },
+  {
+    "id": "illinois-4",
+    "jurisdiction": "Illinois",
+    "name": "Illinois Source 4",
+    "url": "https://epa.illinois.gov/topics/forms/water-permits.html",
+    "selector": "body"
+  },
+  {
+    "id": "illinois-5",
+    "jurisdiction": "Illinois",
+    "name": "Illinois Source 5",
+    "url": "https://www.epa.gov/npdes-permits/illinois-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "illinois-6",
+    "jurisdiction": "Illinois",
+    "name": "Illinois Source 6",
+    "url": "https://www.illinois.gov/services/service.icc-pipeline-safety.html",
+    "selector": "body"
+  },
+  {
+    "id": "illinois-7",
+    "jurisdiction": "Illinois",
+    "name": "Illinois Source 7",
+    "url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=165&ChapterID=2",
+    "selector": "body"
+  },
+  {
+    "id": "illinois-8",
+    "jurisdiction": "Illinois",
+    "name": "Illinois Source 8",
+    "url": "https://dnr.illinois.gov/content/dam/soi/en/web/dnr/adrules/documents/62-250.pdf",
+    "selector": "body"
+  },
+  {
+    "id": "indiana-0",
+    "jurisdiction": "Indiana",
+    "name": "Indiana Source 0",
+    "url": "https://www.in.gov/dnr/oil-and-gas/",
+    "selector": "body"
+  },
+  {
+    "id": "indiana-1",
+    "jurisdiction": "Indiana",
+    "name": "Indiana Source 1",
+    "url": "https://www.in.gov/dnr/oil-and-gas/permits-and-forms/permits/",
+    "selector": "body"
+  },
+  {
+    "id": "indiana-2",
+    "jurisdiction": "Indiana",
+    "name": "Indiana Source 2",
+    "url": "https://www.in.gov/dnr/oil-and-gas/oil-and-gas-leasing-of-state-owned-lands/",
+    "selector": "body"
+  },
+  {
+    "id": "indiana-3",
+    "jurisdiction": "Indiana",
+    "name": "Indiana Source 3",
+    "url": "https://www.in.gov/idem/airpermit/",
+    "selector": "body"
+  },
+  {
+    "id": "indiana-4",
+    "jurisdiction": "Indiana",
+    "name": "Indiana Source 4",
+    "url": "https://www.in.gov/idem/airpermit/information-about/operating-permits/",
+    "selector": "body"
+  },
+  {
+    "id": "indiana-5",
+    "jurisdiction": "Indiana",
+    "name": "Indiana Source 5",
+    "url": "https://www.in.gov/idem/cleanwater/wastewater-permitting/national-pollutant-discharge-elimination-system-npdes/",
+    "selector": "body"
+  },
+  {
+    "id": "indiana-6",
+    "jurisdiction": "Indiana",
+    "name": "Indiana Source 6",
+    "url": "https://www.epa.gov/npdes-permits/indiana-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "indiana-7",
+    "jurisdiction": "Indiana",
+    "name": "Indiana Source 7",
+    "url": "https://www.in.gov/iurc/pipeline-safety-division/",
+    "selector": "body"
+  },
+  {
+    "id": "indiana-8",
+    "jurisdiction": "Indiana",
+    "name": "Indiana Source 8",
+    "url": "https://www.in.gov/iurc/pipeline-safety-division/regulation-of-gas-operators/",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-0",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 0",
+    "url": "https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/pipeline-safety",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-1",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 1",
+    "url": "https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/hazardous-liquid-pipeline-permits",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-2",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 2",
+    "url": "https://www.iowadnr.gov/environmental-protection/air-quality/air-quality-construction-permits",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-3",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 3",
+    "url": "https://www.iowadnr.gov/environmental-protection/air-quality/operating-permits",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-4",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 4",
+    "url": "https://programs.iowadnr.gov/easyair/Public/GovEnt/Shared/Pages/Main/Login.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-5",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 5",
+    "url": "https://www.iowadnr.gov/environmental-protection/air-quality/eair-services",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-6",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 6",
+    "url": "https://www.iowadnr.gov/environmental-protection/air-quality/local-air-quality-programs",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-7",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 7",
+    "url": "https://www.linncountyiowa.gov/1429/Air-Quality",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-8",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 8",
+    "url": "https://www.polkcountyiowa.gov/public-works/air-quality/",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-9",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 9",
+    "url": "https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-10",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 10",
+    "url": "https://www.epa.gov/npdes-permits/iowa-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "iowa-11",
+    "jurisdiction": "Iowa",
+    "name": "Iowa Source 11",
+    "url": "https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes/current-permits",
+    "selector": "body"
+  },
+  {
+    "id": "kansas-0",
+    "jurisdiction": "Kansas",
+    "name": "Kansas Source 0",
+    "url": "https://www.kcc.ks.gov/oil-gas",
+    "selector": "body"
+  },
+  {
+    "id": "kansas-1",
+    "jurisdiction": "Kansas",
+    "name": "Kansas Source 1",
+    "url": "https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline",
+    "selector": "body"
+  },
+  {
+    "id": "kansas-2",
+    "jurisdiction": "Kansas",
+    "name": "Kansas Source 2",
+    "url": "https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline/liquid-pipeline",
+    "selector": "body"
+  },
+  {
+    "id": "kansas-3",
+    "jurisdiction": "Kansas",
+    "name": "Kansas Source 3",
+    "url": "https://www.kdhe.ks.gov/313/Permitting",
+    "selector": "body"
+  },
+  {
+    "id": "kansas-4",
+    "jurisdiction": "Kansas",
+    "name": "Kansas Source 4",
+    "url": "https://www.kdhe.ks.gov/754/Pollution-Control-Wastewater-Programs",
+    "selector": "body"
+  },
+  {
+    "id": "kansas-5",
+    "jurisdiction": "Kansas",
+    "name": "Kansas Source 5",
+    "url": "https://www.epa.gov/npdes-permits/kansas-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "kansas-6",
+    "jurisdiction": "Kansas",
+    "name": "Kansas Source 6",
+    "url": "https://www.wycokck.org/Departments/Health/Clean-Safe-Places/Air-Quality",
+    "selector": "body"
+  },
+  {
+    "id": "kentucky-0",
+    "jurisdiction": "Kentucky",
+    "name": "Kentucky Source 0",
+    "url": "https://psc.ky.gov/Home/PipelineSafety",
+    "selector": "body"
+  },
+  {
+    "id": "kentucky-1",
+    "jurisdiction": "Kentucky",
+    "name": "Kentucky Source 1",
+    "url": "https://eec.ky.gov/Environmental-Protection/Air/Pages/Air-Permitting.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "kentucky-2",
+    "jurisdiction": "Kentucky",
+    "name": "Kentucky Source 2",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-kentucky",
+    "selector": "body"
+  },
+  {
+    "id": "kentucky-3",
+    "jurisdiction": "Kentucky",
+    "name": "Kentucky Source 3",
+    "url": "https://louisvilleky.gov/government/air-pollution-control-district/air-pollution-permitting-louisville",
+    "selector": "body"
+  },
+  {
+    "id": "kentucky-4",
+    "jurisdiction": "Kentucky",
+    "name": "Kentucky Source 4",
+    "url": "https://louisvilleky.gov/government/air-pollution-control-district/apcd-permit-application-forms-fees",
+    "selector": "body"
+  },
+  {
+    "id": "kentucky-5",
+    "jurisdiction": "Kentucky",
+    "name": "Kentucky Source 5",
+    "url": "https://eec.ky.gov/Environmental-Protection/Water/PermitCert/KPDES/Pages/default.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "kentucky-6",
+    "jurisdiction": "Kentucky",
+    "name": "Kentucky Source 6",
+    "url": "https://www.epa.gov/npdes-permits/kentucky-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "kentucky-7",
+    "jurisdiction": "Kentucky",
+    "name": "Kentucky Source 7",
+    "url": "https://eec.ky.gov/Environmental-Protection/Air/Pages/default.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "kentucky-8",
+    "jurisdiction": "Kentucky",
+    "name": "Kentucky Source 8",
+    "url": "https://eec.ky.gov/Environmental-Protection/Air/Pages/Permit-Required-Reporting.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "louisiana-0",
+    "jurisdiction": "Louisiana",
+    "name": "Louisiana Source 0",
+    "url": "https://www.dnr.louisiana.gov/page/permit-to-drill-applications",
+    "selector": "body"
+  },
+  {
+    "id": "louisiana-1",
+    "jurisdiction": "Louisiana",
+    "name": "Louisiana Source 1",
+    "url": "https://www.dnr.louisiana.gov/page/pd-pipeline-division",
+    "selector": "body"
+  },
+  {
+    "id": "louisiana-2",
+    "jurisdiction": "Louisiana",
+    "name": "Louisiana Source 2",
+    "url": "https://deq.louisiana.gov/page/air-permits",
+    "selector": "body"
+  },
+  {
+    "id": "louisiana-3",
+    "jurisdiction": "Louisiana",
+    "name": "Louisiana Source 3",
+    "url": "https://deq.louisiana.gov/page/lpdes",
+    "selector": "body"
+  },
+  {
+    "id": "louisiana-4",
+    "jurisdiction": "Louisiana",
+    "name": "Louisiana Source 4",
+    "url": "https://www.dnr.louisiana.gov/page/office-of-coastal-management-home-page",
+    "selector": "body"
+  },
+  {
+    "id": "louisiana-5",
+    "jurisdiction": "Louisiana",
+    "name": "Louisiana Source 5",
+    "url": "https://www.dnr.louisiana.gov/page/applying-for-a-coastal-use-permit",
+    "selector": "body"
+  },
+  {
+    "id": "louisiana-6",
+    "jurisdiction": "Louisiana",
+    "name": "Louisiana Source 6",
+    "url": "https://www.dnr.louisiana.gov/page/state-mineral-and-energy-board",
+    "selector": "body"
+  },
+  {
+    "id": "maine-0",
+    "jurisdiction": "Maine",
+    "name": "Maine Source 0",
+    "url": "https://www.maine.gov/mpuc/safety/natural-gas-safety",
+    "selector": "body"
+  },
+  {
+    "id": "maine-1",
+    "jurisdiction": "Maine",
+    "name": "Maine Source 1",
+    "url": "https://www.maine.gov/dep/air/permits/index.html",
+    "selector": "body"
+  },
+  {
+    "id": "maine-2",
+    "jurisdiction": "Maine",
+    "name": "Maine Source 2",
+    "url": "https://www.maine.gov/dep/air/permits/major.html",
+    "selector": "body"
+  },
+  {
+    "id": "maine-3",
+    "jurisdiction": "Maine",
+    "name": "Maine Source 3",
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-maine",
+    "selector": "body"
+  },
+  {
+    "id": "maine-4",
+    "jurisdiction": "Maine",
+    "name": "Maine Source 4",
+    "url": "https://www.maine.gov/dep/water/wd/general.html",
+    "selector": "body"
+  },
+  {
+    "id": "maine-5",
+    "jurisdiction": "Maine",
+    "name": "Maine Source 5",
+    "url": "https://www.epa.gov/npdes-permits/maine-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "maine-6",
+    "jurisdiction": "Maine",
+    "name": "Maine Source 6",
+    "url": "https://www.maine.gov/dmr/programs/maine-coastal-program/federal-consistency-review",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-0",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 0",
+    "url": "https://www.psc.state.md.us/gas/natural-gas-pipeline-safety-program/",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-1",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 1",
+    "url": "https://www.psc.state.md.us/gas/hazardous-liquid-pipeline-safety-program/",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-2",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 2",
+    "url": "https://mde.maryland.gov/programs/Permits/AirManagementPermits/Pages/index.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-3",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 3",
+    "url": "https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/permitstoconstructandoperate.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-4",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 4",
+    "url": "https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/title5_issued_permits.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-5",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 5",
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-maryland",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-6",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 6",
+    "url": "https://www.epa.gov/npdes-permits/maryland-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-7",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 7",
+    "url": "https://mde.maryland.gov/programs/permits/watermanagementpermits/pages/waterpermits.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-8",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 8",
+    "url": "https://mde.maryland.gov/programs/permits/pages/sb47.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-9",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 9",
+    "url": "https://mdedataviewer.mde.state.md.us/Public/",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-10",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 10",
+    "url": "https://mde.maryland.gov/programs/water/wetlandsandwaterways/pages/czm.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "maryland-11",
+    "jurisdiction": "Maryland",
+    "name": "Maryland Source 11",
+    "url": "https://dnr.maryland.gov/ccs/pages/md-coastal-zone.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-0",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 0",
+    "url": "https://www.mass.gov/orgs/pipeline-safety-division",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-1",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 1",
+    "url": "https://www.mass.gov/regulations/220-CMR-10100-massachusetts-natural-gas-pipeline-safety-code",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-2",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 2",
+    "url": "https://www.mass.gov/air-climate-permitting-reporting",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-3",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 3",
+    "url": "https://www.mass.gov/guides/massdep-operating-permit-compliance-program",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-4",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 4",
+    "url": "https://www.mass.gov/guides/massdep-air-plan-applications",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-5",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 5",
+    "url": "https://www.epa.gov/npdes-permits/massachusetts-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-6",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 6",
+    "url": "https://www.mass.gov/guides/npdes-permits-what-you-need-to-know",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-7",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 7",
+    "url": "https://www.mass.gov/orgs/massachusetts-office-of-coastal-zone-management-czm",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-8",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 8",
+    "url": "https://www.mass.gov/federal-consistency-review-program",
+    "selector": "body"
+  },
+  {
+    "id": "massachusetts-9",
+    "jurisdiction": "Massachusetts",
+    "name": "Massachusetts Source 9",
+    "url": "https://www.mass.gov/orgs/energy-facilities-siting-board",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-0",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 0",
+    "url": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-1",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 1",
+    "url": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas/forms",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-2",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 2",
+    "url": "https://www.deq.state.mi.us/dataminer/",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-3",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 3",
+    "url": "https://www.michigan.gov/egle/about/organization/air-quality/air-permits",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-4",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 4",
+    "url": "https://www.michigan.gov/egle/about/organization/air-quality/air-permits/new-source-review",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-5",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 5",
+    "url": "https://www.egle.state.mi.us/aps/",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-6",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 6",
+    "url": "https://www.michigan.gov/egle/about/organization/water-resources/npdes",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-7",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 7",
+    "url": "https://www.michigan.gov/egle/about/organization/water-resources/npdes/general-permits",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-8",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 8",
+    "url": "https://www.epa.gov/npdes-permits/michigan-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-9",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 9",
+    "url": "https://www.michigan.gov/mpsc/regulatory/natural-gas/pipeline-safety",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-10",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 10",
+    "url": "https://www.michigan.gov/dnr/managing-resources/minerals/oil-and-gas",
+    "selector": "body"
+  },
+  {
+    "id": "michigan-11",
+    "jurisdiction": "Michigan",
+    "name": "Michigan Source 11",
+    "url": "https://www.michigan.gov/dnr/faqs/minerals/oil-and-gas-leasing",
+    "selector": "body"
+  },
+  {
+    "id": "minnesota-0",
+    "jurisdiction": "Minnesota",
+    "name": "Minnesota Source 0",
+    "url": "https://dps.mn.gov/divisions/ops",
+    "selector": "body"
+  },
+  {
+    "id": "minnesota-1",
+    "jurisdiction": "Minnesota",
+    "name": "Minnesota Source 1",
+    "url": "https://www.pca.state.mn.us/business-with-us/air-permits",
+    "selector": "body"
+  },
+  {
+    "id": "minnesota-2",
+    "jurisdiction": "Minnesota",
+    "name": "Minnesota Source 2",
+    "url": "https://www.pca.state.mn.us/business-with-us/e-service-air-permit-applications",
+    "selector": "body"
+  },
+  {
+    "id": "minnesota-3",
+    "jurisdiction": "Minnesota",
+    "name": "Minnesota Source 3",
+    "url": "https://www.pca.state.mn.us/business-with-us/air-permit-types",
+    "selector": "body"
+  },
+  {
+    "id": "minnesota-4",
+    "jurisdiction": "Minnesota",
+    "name": "Minnesota Source 4",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-minnesota",
+    "selector": "body"
+  },
+  {
+    "id": "minnesota-5",
+    "jurisdiction": "Minnesota",
+    "name": "Minnesota Source 5",
+    "url": "https://www.pca.state.mn.us/get-engaged/public-comments",
+    "selector": "body"
+  },
+  {
+    "id": "minnesota-6",
+    "jurisdiction": "Minnesota",
+    "name": "Minnesota Source 6",
+    "url": "https://www.pca.state.mn.us/business-with-us/wastewater-permits",
+    "selector": "body"
+  },
+  {
+    "id": "minnesota-7",
+    "jurisdiction": "Minnesota",
+    "name": "Minnesota Source 7",
+    "url": "https://www.epa.gov/npdes-permits/minnesota-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "minnesota-8",
+    "jurisdiction": "Minnesota",
+    "name": "Minnesota Source 8",
+    "url": "https://www.dnr.state.mn.us/waters/lakesuperior/federal.html",
+    "selector": "body"
+  },
+  {
+    "id": "mississippi-0",
+    "jurisdiction": "Mississippi",
+    "name": "Mississippi Source 0",
+    "url": "https://www.ogb.state.ms.us",
+    "selector": "body"
+  },
+  {
+    "id": "mississippi-1",
+    "jurisdiction": "Mississippi",
+    "name": "Mississippi Source 1",
+    "url": "https://www.mdeq.ms.gov/air/",
+    "selector": "body"
+  },
+  {
+    "id": "mississippi-2",
+    "jurisdiction": "Mississippi",
+    "name": "Mississippi Source 2",
+    "url": "https://www.mdeq.ms.gov/permits/",
+    "selector": "body"
+  },
+  {
+    "id": "mississippi-3",
+    "jurisdiction": "Mississippi",
+    "name": "Mississippi Source 3",
+    "url": "https://www.mdeq.ms.gov/permits/environmental-permits-division/applications-forms/air/",
+    "selector": "body"
+  },
+  {
+    "id": "mississippi-4",
+    "jurisdiction": "Mississippi",
+    "name": "Mississippi Source 4",
+    "url": "https://opcgis.deq.state.ms.us/ensearchonline/default.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "mississippi-5",
+    "jurisdiction": "Mississippi",
+    "name": "Mississippi Source 5",
+    "url": "https://www.psc.ms.gov/pipeline/safety",
+    "selector": "body"
+  },
+  {
+    "id": "mississippi-6",
+    "jurisdiction": "Mississippi",
+    "name": "Mississippi Source 6",
+    "url": "https://www.epa.gov/npdes-permits/mississippi-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-0",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 0",
+    "url": "https://psc.mo.gov/NaturalGas/Missouri_Pipeline_Safety_Authority",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-1",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 1",
+    "url": "https://dnr.mo.gov/air/business-industry/technical-assistance/construction-permits",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-2",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 2",
+    "url": "https://dnr.mo.gov/air/business-industry/technical-assistance/operating-permits",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-3",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 3",
+    "url": "https://dnr.mo.gov/air/business-industry/permits",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-4",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 4",
+    "url": "https://dnr.mo.gov/air/what-were-doing/public-notices",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-5",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 5",
+    "url": "https://dnr.mo.gov/air/business-industry/permits/issued",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-6",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 6",
+    "url": "https://dnr.mo.gov/water/business-industry-other-entities/permits-certification-engineering-fees/wastewater",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-7",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 7",
+    "url": "https://www.epa.gov/npdes-permits/missouri-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-8",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 8",
+    "url": "https://dnr.mo.gov/water/data-e-services/electronic-permitting-epermitting",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-9",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 9",
+    "url": "https://stlouiscountymo.gov/st-louis-county-departments/public-health/environmental-services/air-pollution-control/",
+    "selector": "body"
+  },
+  {
+    "id": "missouri-10",
+    "jurisdiction": "Missouri",
+    "name": "Missouri Source 10",
+    "url": "https://www.kcmo.gov/city-hall/departments/health/health-online-forms-and-applications",
+    "selector": "body"
+  },
+  {
+    "id": "montana-0",
+    "jurisdiction": "Montana",
+    "name": "Montana Source 0",
+    "url": "https://dnrc.mt.gov/bogc/",
+    "selector": "body"
+  },
+  {
+    "id": "montana-1",
+    "jurisdiction": "Montana",
+    "name": "Montana Source 1",
+    "url": "https://bogapps.dnrc.mt.gov/dataminer/",
+    "selector": "body"
+  },
+  {
+    "id": "montana-2",
+    "jurisdiction": "Montana",
+    "name": "Montana Source 2",
+    "url": "https://deq.mt.gov/air/assistance",
+    "selector": "body"
+  },
+  {
+    "id": "montana-3",
+    "jurisdiction": "Montana",
+    "name": "Montana Source 3",
+    "url": "https://deq.mt.gov/water/assistance",
+    "selector": "body"
+  },
+  {
+    "id": "montana-4",
+    "jurisdiction": "Montana",
+    "name": "Montana Source 4",
+    "url": "https://www.epa.gov/npdes-permits/montana-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "montana-5",
+    "jurisdiction": "Montana",
+    "name": "Montana Source 5",
+    "url": "https://psc.mt.gov/Public-Safety/Pipeline-Safety",
+    "selector": "body"
+  },
+  {
+    "id": "montana-6",
+    "jurisdiction": "Montana",
+    "name": "Montana Source 6",
+    "url": "https://dnrc.mt.gov/TrustLand/subsurface-resources/oil-gas-leasing",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-0",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 0",
+    "url": "https://www.nogcc.ne.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-1",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 1",
+    "url": "https://dee.nebraska.gov/air/air-permitting/",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-2",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 2",
+    "url": "https://dee.nebraska.gov/water-quality/water-quality-permitting/national-pollutant-discharge-elimination-systems-npdes-program",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-3",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 3",
+    "url": "https://www.epa.gov/npdes-permits/nebraska-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-4",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 4",
+    "url": "https://sfm.nebraska.gov/fuels-safety/pipeline-safety",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-5",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 5",
+    "url": "https://psc.nebraska.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-6",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 6",
+    "url": "https://psc.nebraska.gov/sites/default/files/doc/administration/Updated_RRs/2024_Updates/Chapter%209%20-%20Natural%20Gas%20and%20Oil%20Pipelines%20Rules%20and%20Regulations_1.pdf",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-7",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 7",
+    "url": "https://belf.nebraska.gov/oil_gas_leasing.html",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-8",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 8",
+    "url": "https://publicworks.cityofomaha.org/oaqc-omaha-air-quality-control/",
+    "selector": "body"
+  },
+  {
+    "id": "nebraska-9",
+    "jurisdiction": "Nebraska",
+    "name": "Nebraska Source 9",
+    "url": "https://www.lincoln.ne.gov/City/Departments/Health-Department/Environmental/Air",
+    "selector": "body"
+  },
+  {
+    "id": "nevada-0",
+    "jurisdiction": "Nevada",
+    "name": "Nevada Source 0",
+    "url": "https://minerals.nv.gov/Programs/OG/OG/",
+    "selector": "body"
+  },
+  {
+    "id": "nevada-1",
+    "jurisdiction": "Nevada",
+    "name": "Nevada Source 1",
+    "url": "https://puc.nv.gov/Safety/Pipeline/",
+    "selector": "body"
+  },
+  {
+    "id": "nevada-2",
+    "jurisdiction": "Nevada",
+    "name": "Nevada Source 2",
+    "url": "https://ndep.nv.gov/air/permitting",
+    "selector": "body"
+  },
+  {
+    "id": "nevada-3",
+    "jurisdiction": "Nevada",
+    "name": "Nevada Source 3",
+    "url": "https://ndep.nv.gov/water/water-pollution-control/permitting",
+    "selector": "body"
+  },
+  {
+    "id": "nevada-4",
+    "jurisdiction": "Nevada",
+    "name": "Nevada Source 4",
+    "url": "https://lands.nv.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "nevada-5",
+    "jurisdiction": "Nevada",
+    "name": "Nevada Source 5",
+    "url": "https://www.clarkcountynv.gov/government/departments/environment_and_sustainability/division_of_air_quality/permitting/",
+    "selector": "body"
+  },
+  {
+    "id": "nevada-6",
+    "jurisdiction": "Nevada",
+    "name": "Nevada Source 6",
+    "url": "https://www.nnph.org/programs-and-services/air-quality/index.php",
+    "selector": "body"
+  },
+  {
+    "id": "new-hampshire-0",
+    "jurisdiction": "New Hampshire",
+    "name": "New Hampshire Source 0",
+    "url": "https://www.energy.nh.gov/enforcement/pipeline-safety/pipeline-safety-overview",
+    "selector": "body"
+  },
+  {
+    "id": "new-hampshire-1",
+    "jurisdiction": "New Hampshire",
+    "name": "New Hampshire Source 1",
+    "url": "https://www.energy.nh.gov/enforcement/pipeline-safety/enforcement-program",
+    "selector": "body"
+  },
+  {
+    "id": "new-hampshire-2",
+    "jurisdiction": "New Hampshire",
+    "name": "New Hampshire Source 2",
+    "url": "https://www.des.nh.gov/air/industrial-sources/permit-guidance",
+    "selector": "body"
+  },
+  {
+    "id": "new-hampshire-3",
+    "jurisdiction": "New Hampshire",
+    "name": "New Hampshire Source 3",
+    "url": "https://onlineforms.nh.gov/home/094d9dd2-c1de-4882-9414-c0807677d0ed",
+    "selector": "body"
+  },
+  {
+    "id": "new-hampshire-4",
+    "jurisdiction": "New Hampshire",
+    "name": "New Hampshire Source 4",
+    "url": "https://www4.des.state.nh.us/DESOnestop/BasicSearch.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "new-hampshire-5",
+    "jurisdiction": "New Hampshire",
+    "name": "New Hampshire Source 5",
+    "url": "https://www.epa.gov/npdes-permits/new-hampshire-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "new-hampshire-6",
+    "jurisdiction": "New Hampshire",
+    "name": "New Hampshire Source 6",
+    "url": "https://www.des.nh.gov/waste/wastewater/npdes-permits-and-compliance",
+    "selector": "body"
+  },
+  {
+    "id": "new-hampshire-7",
+    "jurisdiction": "New Hampshire",
+    "name": "New Hampshire Source 7",
+    "url": "https://www.des.nh.gov/water/coastal-waters/federal-consistency",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-0",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 0",
+    "url": "https://www.nj.gov/bpu/about/divisions/reliability",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-1",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 1",
+    "url": "https://dep.nj.gov/boss/air-permitting-guidance/",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-2",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 2",
+    "url": "https://dep.nj.gov/boss/general-permits/",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-3",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 3",
+    "url": "https://dep.nj.gov/boss/general-permits/general-operating-permits/",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-4",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 4",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-permitting-new-jersey",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-5",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 5",
+    "url": "https://dep.nj.gov/dwq/wastewater/",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-6",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 6",
+    "url": "https://www.epa.gov/npdes-permits/new-jersey-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-7",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 7",
+    "url": "https://www.nj.gov/dep/cmp/czm_federal.html",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-8",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 8",
+    "url": "https://njems.nj.gov/DataMiner/Search/SearchByCategory?catName=Air+Quality+Permitting+and+Reporting&getCategory=y&isExternal=y",
+    "selector": "body"
+  },
+  {
+    "id": "new-jersey-9",
+    "jurisdiction": "New Jersey",
+    "name": "New Jersey Source 9",
+    "url": "https://njems.nj.gov/DataMiner/Search/SearchByCategory",
+    "selector": "body"
+  },
+  {
+    "id": "new-mexico-0",
+    "jurisdiction": "New Mexico",
+    "name": "New Mexico Source 0",
+    "url": "https://www.emnrd.nm.gov/ocd/",
+    "selector": "body"
+  },
+  {
+    "id": "new-mexico-1",
+    "jurisdiction": "New Mexico",
+    "name": "New Mexico Source 1",
+    "url": "https://www.env.nm.gov/air-quality/permitting-section-home-page/",
+    "selector": "body"
+  },
+  {
+    "id": "new-mexico-2",
+    "jurisdiction": "New Mexico",
+    "name": "New Mexico Source 2",
+    "url": "https://www.env.nm.gov/surface-water-quality/point-source-regulation-section/",
+    "selector": "body"
+  },
+  {
+    "id": "new-mexico-3",
+    "jurisdiction": "New Mexico",
+    "name": "New Mexico Source 3",
+    "url": "https://www.env.nm.gov/gwqb/permits/",
+    "selector": "body"
+  },
+  {
+    "id": "new-mexico-4",
+    "jurisdiction": "New Mexico",
+    "name": "New Mexico Source 4",
+    "url": "https://www.prc.nm.gov/pipeline-safety-bureau/pipeline-safety/",
+    "selector": "body"
+  },
+  {
+    "id": "new-mexico-5",
+    "jurisdiction": "New Mexico",
+    "name": "New Mexico Source 5",
+    "url": "https://www.nmstatelands.org/divisions/oil-gas-and-minerals/lease-information/",
+    "selector": "body"
+  },
+  {
+    "id": "new-mexico-6",
+    "jurisdiction": "New Mexico",
+    "name": "New Mexico Source 6",
+    "url": "https://www.cabq.gov/airquality/air-quality-permits",
+    "selector": "body"
+  },
+  {
+    "id": "new-york-0",
+    "jurisdiction": "New York",
+    "name": "New York Source 0",
+    "url": "https://dec.ny.gov/environmental-protection/oil-gas",
+    "selector": "body"
+  },
+  {
+    "id": "new-york-1",
+    "jurisdiction": "New York",
+    "name": "New York Source 1",
+    "url": "https://dec.ny.gov/environmental-protection/oil-gas/well-owner-and-applicants-information-center/well-permit-application-process",
+    "selector": "body"
+  },
+  {
+    "id": "new-york-2",
+    "jurisdiction": "New York",
+    "name": "New York Source 2",
+    "url": "https://dec.ny.gov/regulatory/permits-licenses/air",
+    "selector": "body"
+  },
+  {
+    "id": "new-york-3",
+    "jurisdiction": "New York",
+    "name": "New York Source 3",
+    "url": "https://dec.ny.gov/environmental-protection/air-quality/controlling-pollution-from-facilities/permits-registrations-fees",
+    "selector": "body"
+  },
+  {
+    "id": "new-york-4",
+    "jurisdiction": "New York",
+    "name": "New York Source 4",
+    "url": "https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program",
+    "selector": "body"
+  },
+  {
+    "id": "new-york-5",
+    "jurisdiction": "New York",
+    "name": "New York Source 5",
+    "url": "https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program/application-procedures-forms",
+    "selector": "body"
+  },
+  {
+    "id": "new-york-6",
+    "jurisdiction": "New York",
+    "name": "New York Source 6",
+    "url": "https://www.epa.gov/npdes-permits/new-york-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "new-york-7",
+    "jurisdiction": "New York",
+    "name": "New York Source 7",
+    "url": "https://dps.ny.gov/nys-pipeline-safety-program",
+    "selector": "body"
+  },
+  {
+    "id": "north-carolina-0",
+    "jurisdiction": "North Carolina",
+    "name": "North Carolina Source 0",
+    "url": "https://www.deq.nc.gov/energy-climate/oil-and-gas-program",
+    "selector": "body"
+  },
+  {
+    "id": "north-carolina-1",
+    "jurisdiction": "North Carolina",
+    "name": "North Carolina Source 1",
+    "url": "https://www.deq.nc.gov/energy-climate/oil-and-gas-program/nc-oil-and-gas-commission",
+    "selector": "body"
+  },
+  {
+    "id": "north-carolina-2",
+    "jurisdiction": "North Carolina",
+    "name": "North Carolina Source 2",
+    "url": "https://www.deq.nc.gov/about/divisions/air-quality/air-quality-permitting",
+    "selector": "body"
+  },
+  {
+    "id": "north-carolina-3",
+    "jurisdiction": "North Carolina",
+    "name": "North Carolina Source 3",
+    "url": "https://www.deq.nc.gov/about/divisions/air-quality/air-quality-planning/air-quality-rules-regulations/rules/section-0500-title-v-procedures",
+    "selector": "body"
+  },
+  {
+    "id": "north-carolina-4",
+    "jurisdiction": "North Carolina",
+    "name": "North Carolina Source 4",
+    "url": "https://www.deq.nc.gov/about/divisions/water-resources/water-quality-permitting/npdes-wastewater",
+    "selector": "body"
+  },
+  {
+    "id": "north-carolina-5",
+    "jurisdiction": "North Carolina",
+    "name": "North Carolina Source 5",
+    "url": "https://www.epa.gov/npdes-permits/north-carolina-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "north-carolina-6",
+    "jurisdiction": "North Carolina",
+    "name": "North Carolina Source 6",
+    "url": "https://www.ncuc.gov/industries/naturalgas/pipelinesafety.html",
+    "selector": "body"
+  },
+  {
+    "id": "north-carolina-7",
+    "jurisdiction": "North Carolina",
+    "name": "North Carolina Source 7",
+    "url": "https://airquality.mecknc.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "north-carolina-8",
+    "jurisdiction": "North Carolina",
+    "name": "North Carolina Source 8",
+    "url": "https://www.forsyth.cc/eap/permitting.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "north-dakota-0",
+    "jurisdiction": "North Dakota",
+    "name": "North Dakota Source 0",
+    "url": "https://www.dmr.nd.gov/oilgas/",
+    "selector": "body"
+  },
+  {
+    "id": "north-dakota-1",
+    "jurisdiction": "North Dakota",
+    "name": "North Dakota Source 1",
+    "url": "https://deq.nd.gov/aq/permitting/",
+    "selector": "body"
+  },
+  {
+    "id": "north-dakota-2",
+    "jurisdiction": "North Dakota",
+    "name": "North Dakota Source 2",
+    "url": "https://deq.nd.gov/WQ/2_NDPDES_Permits/",
+    "selector": "body"
+  },
+  {
+    "id": "north-dakota-3",
+    "jurisdiction": "North Dakota",
+    "name": "North Dakota Source 3",
+    "url": "https://psc.nd.gov/jurisdiction/pipelines/",
+    "selector": "body"
+  },
+  {
+    "id": "north-dakota-4",
+    "jurisdiction": "North Dakota",
+    "name": "North Dakota Source 4",
+    "url": "https://www.land.nd.gov/minerals-management",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-0",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 0",
+    "url": "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/division-of-oil-and-gas",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-1",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 1",
+    "url": "https://ohiodnr.gov/wps/portal/gov/odnr/buy-and-apply/regulatory-permits/oil-and-gas-permits",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-2",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 2",
+    "url": "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/oil-gas-resources/permit-application",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-3",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 3",
+    "url": "https://ohiodnr.gov/business-and-industry/municipalities-and-public-entities/commissions-and-councils/oil-gas-land-management-commission",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-4",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 4",
+    "url": "https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting/applying-for-an-air-pollution-control-permit",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-5",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 5",
+    "url": "https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-6",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 6",
+    "url": "https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/npdes-general-permits",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-7",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 7",
+    "url": "https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/individual-wastewater-discharge-permits",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-8",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 8",
+    "url": "https://puco.ohio.gov/utilities/gas/resources/natural-gas-pipeline-safety-in-ohio",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-9",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 9",
+    "url": "https://puco.ohio.gov/utilities/gas/resources/gps-reporting-requirements",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-10",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 10",
+    "url": "https://www.southwestohioair.org/special_programs/permits.php",
+    "selector": "body"
+  },
+  {
+    "id": "ohio-11",
+    "jurisdiction": "Ohio",
+    "name": "Ohio Source 11",
+    "url": "https://www.clevelandhealth.org/programs/air/permitting/",
+    "selector": "body"
+  },
+  {
+    "id": "oklahoma-0",
+    "jurisdiction": "Oklahoma",
+    "name": "Oklahoma Source 0",
+    "url": "https://oklahoma.gov/occ/divisions/oil-gas.html",
+    "selector": "body"
+  },
+  {
+    "id": "oklahoma-1",
+    "jurisdiction": "Oklahoma",
+    "name": "Oklahoma Source 1",
+    "url": "https://oklahoma.gov/occ/divisions/public-utility/pipeline-safety.html",
+    "selector": "body"
+  },
+  {
+    "id": "oklahoma-2",
+    "jurisdiction": "Oklahoma",
+    "name": "Oklahoma Source 2",
+    "url": "https://www.deq.ok.gov/air-quality-division/air-permits/",
+    "selector": "body"
+  },
+  {
+    "id": "oklahoma-3",
+    "jurisdiction": "Oklahoma",
+    "name": "Oklahoma Source 3",
+    "url": "https://www.deq.ok.gov/water-quality-division/permitting/",
+    "selector": "body"
+  },
+  {
+    "id": "oklahoma-4",
+    "jurisdiction": "Oklahoma",
+    "name": "Oklahoma Source 4",
+    "url": "https://clo.ok.gov/services/minerals-leasing/",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-0",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 0",
+    "url": "https://www.oregon.gov/puc/safety/pages/gas-pipeline-safety.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-1",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 1",
+    "url": "https://www.oregon.gov/deq/aq/aqpermits/pages/default.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-2",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 2",
+    "url": "https://www.oregon.gov/deq/aq/aqpermits/pages/tvrule.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-3",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 3",
+    "url": "https://www.lrapa-or.gov/air-quality-protection/permitting-lane-county-sources/",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-4",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 4",
+    "url": "https://www.lrapa-or.gov/forms/",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-5",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 5",
+    "url": "https://www.oregon.gov/deq/wq/wqpermits/pages/default.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-6",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 6",
+    "url": "https://www.oregon.gov/deq/permits/pages/npdeswpcf-in-ydo.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-7",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 7",
+    "url": "https://www.epa.gov/npdes-permits/oregon-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-8",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 8",
+    "url": "https://www.oregon.gov/deq/get-involved/pages/public-notices.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-9",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 9",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-authorities-oregon",
+    "selector": "body"
+  },
+  {
+    "id": "oregon-10",
+    "jurisdiction": "Oregon",
+    "name": "Oregon Source 10",
+    "url": "https://www.oregon.gov/lcd/ocmp/pages/federal-consistency.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "pennsylvania-0",
+    "jurisdiction": "Pennsylvania",
+    "name": "Pennsylvania Source 0",
+    "url": "https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas.html",
+    "selector": "body"
+  },
+  {
+    "id": "pennsylvania-1",
+    "jurisdiction": "Pennsylvania",
+    "name": "Pennsylvania Source 1",
+    "url": "https://www.pa.gov/agencies/dep/programs-and-services/business/air-quality-permits.html",
+    "selector": "body"
+  },
+  {
+    "id": "pennsylvania-2",
+    "jurisdiction": "Pennsylvania",
+    "name": "Pennsylvania Source 2",
+    "url": "https://www.pa.gov/services/dep/water/clean-water/apply-for-national-pollutant-discharge-elimination-system-npdes-permits.html",
+    "selector": "body"
+  },
+  {
+    "id": "pennsylvania-3",
+    "jurisdiction": "Pennsylvania",
+    "name": "Pennsylvania Source 3",
+    "url": "https://www.puc.pa.gov/pipeline-safety/jurisdiction-regulations/",
+    "selector": "body"
+  },
+  {
+    "id": "pennsylvania-4",
+    "jurisdiction": "Pennsylvania",
+    "name": "Pennsylvania Source 4",
+    "url": "https://www.puc.pa.gov/pipeline-safety/act-127-pipeline-act/",
+    "selector": "body"
+  },
+  {
+    "id": "pennsylvania-5",
+    "jurisdiction": "Pennsylvania",
+    "name": "Pennsylvania Source 5",
+    "url": "https://www.pa.gov/agencies/dcnr/conservation/forests-and-tree/natural-gas-drilling-impact.html",
+    "selector": "body"
+  },
+  {
+    "id": "pennsylvania-6",
+    "jurisdiction": "Pennsylvania",
+    "name": "Pennsylvania Source 6",
+    "url": "https://www.alleghenycounty.us/Services/Health-Department/Air-Quality/Air-Quality-Permitting",
+    "selector": "body"
+  },
+  {
+    "id": "pennsylvania-7",
+    "jurisdiction": "Pennsylvania",
+    "name": "Pennsylvania Source 7",
+    "url": "https://www.phila.gov/documents/air-management-services-permits-and-licenses/",
+    "selector": "body"
+  },
+  {
+    "id": "rhode-island-0",
+    "jurisdiction": "Rhode Island",
+    "name": "Rhode Island Source 0",
+    "url": "https://ripuc.ri.gov/utility-information/natural-gas/ridpuc-pipeline-safety",
+    "selector": "body"
+  },
+  {
+    "id": "rhode-island-1",
+    "jurisdiction": "Rhode Island",
+    "name": "Rhode Island Source 1",
+    "url": "https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits",
+    "selector": "body"
+  },
+  {
+    "id": "rhode-island-2",
+    "jurisdiction": "Rhode Island",
+    "name": "Rhode Island Source 2",
+    "url": "https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits/operating-permits",
+    "selector": "body"
+  },
+  {
+    "id": "rhode-island-3",
+    "jurisdiction": "Rhode Island",
+    "name": "Rhode Island Source 3",
+    "url": "https://dem.ri.gov/environmental-protection-bureau/water-resources/permitting/ripdes",
+    "selector": "body"
+  },
+  {
+    "id": "rhode-island-4",
+    "jurisdiction": "Rhode Island",
+    "name": "Rhode Island Source 4",
+    "url": "https://www.epa.gov/npdes-permits/rhode-island-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "rhode-island-5",
+    "jurisdiction": "Rhode Island",
+    "name": "Rhode Island Source 5",
+    "url": "https://www.crmc.ri.gov/applicationforms.html",
+    "selector": "body"
+  },
+  {
+    "id": "rhode-island-6",
+    "jurisdiction": "Rhode Island",
+    "name": "Rhode Island Source 6",
+    "url": "https://www.crmc.ri.gov/aboutcrmc.html",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-0",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 0",
+    "url": "https://des.sc.gov/regulations/oil-and-gas-exploration-drilling-and-production",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-1",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 1",
+    "url": "https://des.sc.gov/sites/des/files/Library/Regulations/R.121-8.0_121-8.28.pdf",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-2",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 2",
+    "url": "https://www.scstatehouse.gov/code/t48c043.php",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-3",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 3",
+    "url": "https://des.sc.gov/programs/bureau-air-quality/air-quality-permits",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-4",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 4",
+    "url": "https://des.sc.gov/programs/bureau-air-quality/air-quality-permits/operating-permits-air",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-5",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 5",
+    "url": "https://des.sc.gov/permits-regulations/permit-central/all-forms-applications",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-6",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 6",
+    "url": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-7",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 7",
+    "url": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-overview",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-8",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 8",
+    "url": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-general-permits",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-9",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 9",
+    "url": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-permit-stormwater",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-10",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 10",
+    "url": "https://ors.sc.gov/safety/pipeline-safety",
+    "selector": "body"
+  },
+  {
+    "id": "south-carolina-11",
+    "jurisdiction": "South Carolina",
+    "name": "South Carolina Source 11",
+    "url": "https://www.epa.gov/npdes-permits/south-carolina-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "south-dakota-0",
+    "jurisdiction": "South Dakota",
+    "name": "South Dakota Source 0",
+    "url": "https://puc.sd.gov/pipelinesafety/",
+    "selector": "body"
+  },
+  {
+    "id": "south-dakota-1",
+    "jurisdiction": "South Dakota",
+    "name": "South Dakota Source 1",
+    "url": "https://danr.sd.gov/Environment/AirQuality/PermitForms/default.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "south-dakota-2",
+    "jurisdiction": "South Dakota",
+    "name": "South Dakota Source 2",
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-south-dakota",
+    "selector": "body"
+  },
+  {
+    "id": "south-dakota-3",
+    "jurisdiction": "South Dakota",
+    "name": "South Dakota Source 3",
+    "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/swdpermitting/swdpermitting.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "south-dakota-4",
+    "jurisdiction": "South Dakota",
+    "name": "South Dakota Source 4",
+    "url": "https://www.epa.gov/npdes-permits/south-dakota-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "south-dakota-5",
+    "jurisdiction": "South Dakota",
+    "name": "South Dakota Source 5",
+    "url": "https://danr.sd.gov/public/",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-0",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 0",
+    "url": "https://www.tn.gov/environment/mineral-geologic.html",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-1",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 1",
+    "url": "https://www.tn.gov/environment/permit-permits/mineral-geologic.html",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-2",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 2",
+    "url": "https://www.tn.gov/environment/about-tdec/fin-financial-responsibility/financial-assurance/fin-financial-instruments-home/fin-oil-gas.html",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-3",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 3",
+    "url": "https://www.tn.gov/environment/permit-permits/air-permits.html",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-4",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 4",
+    "url": "https://www.tn.gov/environment/permit-permits/air-permits/operating/title5-operating.html",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-5",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 5",
+    "url": "https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits1/national-pollutant-discharge-elimination-system--npdes--permit.html",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-6",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 6",
+    "url": "https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits.html",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-7",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 7",
+    "url": "https://www.epa.gov/npdes-permits/tennessee-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-8",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 8",
+    "url": "https://www.tn.gov/tpuc/divisions/gas-pipeline-safety-division.html",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-9",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 9",
+    "url": "https://primis.phmsa.dot.gov/comm/FactSheets/States/TN_State_PL_Safety_Regulatory_Fact_Sheet.htm",
+    "selector": "body"
+  },
+  {
+    "id": "tennessee-10",
+    "jurisdiction": "Tennessee",
+    "name": "Tennessee Source 10",
+    "url": "https://www.tn.gov/environment/about-tdec/boards-and-commissions/board-tennessee-board-of-water-quality--oil-and-gas.html",
+    "selector": "body"
+  },
+  {
+    "id": "texas-0",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 0",
+    "url": "https://www.rrc.texas.gov/oil-and-gas/",
+    "selector": "body"
+  },
+  {
+    "id": "texas-1",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 1",
+    "url": "https://www.rrc.texas.gov/pipeline-safety/",
+    "selector": "body"
+  },
+  {
+    "id": "texas-2",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 2",
+    "url": "https://www.tceq.texas.gov/permitting/air",
+    "selector": "body"
+  },
+  {
+    "id": "texas-3",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 3",
+    "url": "https://www.tceq.texas.gov/permitting/wastewater/pretreatment/tpdes_definition.html",
+    "selector": "body"
+  },
+  {
+    "id": "texas-4",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 4",
+    "url": "https://www.glo.texas.gov/energy/mineral-leasing/leasing",
+    "selector": "body"
+  },
+  {
+    "id": "texas-5",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 5",
+    "url": "https://www.glo.texas.gov/coastal/oil-spill-prevention-and-response",
+    "selector": "body"
+  },
+  {
+    "id": "texas-6",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 6",
+    "url": "https://www.puc.texas.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "texas-7",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 7",
+    "url": "https://www.tdi.texas.gov/fire/fmfsinotices.html",
+    "selector": "body"
+  },
+  {
+    "id": "texas-8",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 8",
+    "url": "https://www.tdi.texas.gov/rules/2023/documents/20237848.pdf",
+    "selector": "body"
+  },
+  {
+    "id": "texas-9",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 9",
+    "url": "https://www.tceq.texas.gov/downloads/rules/adoptions/22015338_ado.pdf",
+    "selector": "body"
+  },
+  {
+    "id": "texas-10",
+    "jurisdiction": "Texas",
+    "name": "Texas Source 10",
+    "url": "https://services.austintexas.gov/edims/document.cfm?id=432220",
+    "selector": "body"
+  },
+  {
+    "id": "utah-0",
+    "jurisdiction": "Utah",
+    "name": "Utah Source 0",
+    "url": "https://ogm.utah.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "utah-1",
+    "jurisdiction": "Utah",
+    "name": "Utah Source 1",
+    "url": "https://deq.utah.gov/air-quality/air-quality-permitting",
+    "selector": "body"
+  },
+  {
+    "id": "utah-2",
+    "jurisdiction": "Utah",
+    "name": "Utah Source 2",
+    "url": "https://deq.utah.gov/water-quality/current-permits-and-forms-updes-permitting-program",
+    "selector": "body"
+  },
+  {
+    "id": "utah-3",
+    "jurisdiction": "Utah",
+    "name": "Utah Source 3",
+    "url": "https://deq.utah.gov/water-quality/storm-water-permits-updes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "utah-4",
+    "jurisdiction": "Utah",
+    "name": "Utah Source 4",
+    "url": "https://dpu.utah.gov/pipeline-safety/",
+    "selector": "body"
+  },
+  {
+    "id": "utah-5",
+    "jurisdiction": "Utah",
+    "name": "Utah Source 5",
+    "url": "https://trustlands.utah.gov/work-with-us/energy-minerals/",
+    "selector": "body"
+  },
+  {
+    "id": "vermont-0",
+    "jurisdiction": "Vermont",
+    "name": "Vermont Source 0",
+    "url": "https://publicservice.vermont.gov/naturalgas_propane",
+    "selector": "body"
+  },
+  {
+    "id": "vermont-1",
+    "jurisdiction": "Vermont",
+    "name": "Vermont Source 1",
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-vermont",
+    "selector": "body"
+  },
+  {
+    "id": "vermont-2",
+    "jurisdiction": "Vermont",
+    "name": "Vermont Source 2",
+    "url": "https://anrweb.vt.gov/DEC/AirFacilities/PublicSearch.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "vermont-3",
+    "jurisdiction": "Vermont",
+    "name": "Vermont Source 3",
+    "url": "https://anronline.vermont.gov/Home/db48e104-7c4c-4d80-9d47-e8d05da3f707",
+    "selector": "body"
+  },
+  {
+    "id": "vermont-4",
+    "jurisdiction": "Vermont",
+    "name": "Vermont Source 4",
+    "url": "https://www.epa.gov/caa-permitting/title-v-program-evaluations-vermont",
+    "selector": "body"
+  },
+  {
+    "id": "vermont-5",
+    "jurisdiction": "Vermont",
+    "name": "Vermont Source 5",
+    "url": "https://www.epa.gov/npdes-permits/vermont-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "vermont-6",
+    "jurisdiction": "Vermont",
+    "name": "Vermont Source 6",
+    "url": "https://anrweb.vt.gov/Pubdocs/DEC/ENB/ENB_V2/16329-VT%20NPDES%20PGP_Factsheet_2022.pdf",
+    "selector": "body"
+  },
+  {
+    "id": "vermont-7",
+    "jurisdiction": "Vermont",
+    "name": "Vermont Source 7",
+    "url": "https://enb.vermont.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-0",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 0",
+    "url": "https://energy.virginia.gov/gas-oil/gasoil.shtml",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-1",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 1",
+    "url": "https://energy.virginia.gov/gas-oil/PermitRequirements.shtml",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-2",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 2",
+    "url": "https://www.energy.virginia.gov/dgoinquiry/frmmain.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-3",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 3",
+    "url": "https://energy.virginia.gov/gas-oil/OwnerRights.shtml",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-4",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 4",
+    "url": "https://www.deq.virginia.gov/permits/air",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-5",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 5",
+    "url": "https://www.deq.virginia.gov/permits/air/forms",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-6",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 6",
+    "url": "https://www.deq.virginia.gov/permits/air/issued-title-v-permits",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-7",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 7",
+    "url": "https://www.deq.virginia.gov/permits/water/surface-waters-vpdes",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-8",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 8",
+    "url": "https://www.deq.virginia.gov/permits/water/ms4",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-9",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 9",
+    "url": "https://www.epa.gov/npdes-permits/virginia-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "virginia-10",
+    "jurisdiction": "Virginia",
+    "name": "Virginia Source 10",
+    "url": "https://www.scc.virginia.gov/regulated-industries/utility-railroad-safety/pipeline-safety/",
+    "selector": "body"
+  },
+  {
+    "id": "washington-0",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 0",
+    "url": "https://www.utc.wa.gov/public-safety/pipeline-safety",
+    "selector": "body"
+  },
+  {
+    "id": "washington-1",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 1",
+    "url": "https://ecology.wa.gov/regulations-permits/permits-certifications/air-quality-permits",
+    "selector": "body"
+  },
+  {
+    "id": "washington-2",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 2",
+    "url": "https://ecology.wa.gov/about-us/accountability-transparency/partnerships-committees/clean-air-agencies",
+    "selector": "body"
+  },
+  {
+    "id": "washington-3",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 3",
+    "url": "https://pscleanair.gov/101/Permits-Registration",
+    "selector": "body"
+  },
+  {
+    "id": "washington-4",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 4",
+    "url": "https://spokanecleanair.org/for-business/notice-of-construction/",
+    "selector": "body"
+  },
+  {
+    "id": "washington-5",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 5",
+    "url": "https://www.yakimacleanair.org/services/forms.html",
+    "selector": "body"
+  },
+  {
+    "id": "washington-6",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 6",
+    "url": "https://www.orcaa.org/",
+    "selector": "body"
+  },
+  {
+    "id": "washington-7",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 7",
+    "url": "https://nwcleanairwa.gov/permits-and-services/",
+    "selector": "body"
+  },
+  {
+    "id": "washington-8",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 8",
+    "url": "https://www.swcleanair.gov/permits/",
+    "selector": "body"
+  },
+  {
+    "id": "washington-9",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 9",
+    "url": "https://bentoncleanair.org/for-business/notice-of-construction/",
+    "selector": "body"
+  },
+  {
+    "id": "washington-10",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 10",
+    "url": "https://ecology.wa.gov/water-shorelines/water-quality/water-quality-permits",
+    "selector": "body"
+  },
+  {
+    "id": "washington-11",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 11",
+    "url": "https://www.epa.gov/npdes-permits/washington-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "washington-12",
+    "jurisdiction": "Washington",
+    "name": "Washington Source 12",
+    "url": "https://ecology.wa.gov/water-shorelines/shoreline-coastal-management/coastal-zone-management/federal-consistency",
+    "selector": "body"
+  },
+  {
+    "id": "west-virginia-0",
+    "jurisdiction": "West Virginia",
+    "name": "West Virginia Source 0",
+    "url": "https://dep.wv.gov/oil-and-gas",
+    "selector": "body"
+  },
+  {
+    "id": "west-virginia-1",
+    "jurisdiction": "West Virginia",
+    "name": "West Virginia Source 1",
+    "url": "https://dep.wv.gov/daq/permitting/",
+    "selector": "body"
+  },
+  {
+    "id": "west-virginia-2",
+    "jurisdiction": "West Virginia",
+    "name": "West Virginia Source 2",
+    "url": "https://dep.wv.gov/WWE/permit/npdes/Pages/default.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "west-virginia-3",
+    "jurisdiction": "West Virginia",
+    "name": "West Virginia Source 3",
+    "url": "https://www.psc.state.wv.us/div/gaspipelinesafety.htm",
+    "selector": "body"
+  },
+  {
+    "id": "west-virginia-4",
+    "jurisdiction": "West Virginia",
+    "name": "West Virginia Source 4",
+    "url": "https://ogcc.wv.gov/",
+    "selector": "body"
+  },
+  {
+    "id": "west-virginia-5",
+    "jurisdiction": "West Virginia",
+    "name": "West Virginia Source 5",
+    "url": "https://wvdnr.gov/lands-waters/office-of-lands-and-streams/",
+    "selector": "body"
+  },
+  {
+    "id": "wisconsin-0",
+    "jurisdiction": "Wisconsin",
+    "name": "Wisconsin Source 0",
+    "url": "https://psc.wi.gov/Pages/ServiceType/Energy/PipelineSafetyProgram.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "wisconsin-1",
+    "jurisdiction": "Wisconsin",
+    "name": "Wisconsin Source 1",
+    "url": "https://dnr.wisconsin.gov/topic/AirPermits",
+    "selector": "body"
+  },
+  {
+    "id": "wisconsin-2",
+    "jurisdiction": "Wisconsin",
+    "name": "Wisconsin Source 2",
+    "url": "https://dnr.wisconsin.gov/topic/AirPermits/Options.html",
+    "selector": "body"
+  },
+  {
+    "id": "wisconsin-3",
+    "jurisdiction": "Wisconsin",
+    "name": "Wisconsin Source 3",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-wisconsin",
+    "selector": "body"
+  },
+  {
+    "id": "wisconsin-4",
+    "jurisdiction": "Wisconsin",
+    "name": "Wisconsin Source 4",
+    "url": "https://dnr.wisconsin.gov/topic/AirPermits/PublicInvolvement",
+    "selector": "body"
+  },
+  {
+    "id": "wisconsin-5",
+    "jurisdiction": "Wisconsin",
+    "name": "Wisconsin Source 5",
+    "url": "https://dnr.wisconsin.gov/topic/Wastewater/Permits.html",
+    "selector": "body"
+  },
+  {
+    "id": "wisconsin-6",
+    "jurisdiction": "Wisconsin",
+    "name": "Wisconsin Source 6",
+    "url": "https://dnr.wisconsin.gov/topic/Wastewater/PermitLists.html",
+    "selector": "body"
+  },
+  {
+    "id": "wisconsin-7",
+    "jurisdiction": "Wisconsin",
+    "name": "Wisconsin Source 7",
+    "url": "https://www.epa.gov/npdes-permits/wisconsin-npdes-permits",
+    "selector": "body"
+  },
+  {
+    "id": "wisconsin-8",
+    "jurisdiction": "Wisconsin",
+    "name": "Wisconsin Source 8",
+    "url": "https://doa.wi.gov/Pages/LocalGovtsGrants/CoastalFederalConsistency.aspx",
+    "selector": "body"
+  },
+  {
+    "id": "wyoming-0",
+    "jurisdiction": "Wyoming",
+    "name": "Wyoming Source 0",
+    "url": "https://wogcc.wyo.gov",
+    "selector": "body"
+  },
+  {
+    "id": "wyoming-1",
+    "jurisdiction": "Wyoming",
+    "name": "Wyoming Source 1",
+    "url": "https://deq.wyoming.gov/aqd/",
+    "selector": "body"
+  },
+  {
+    "id": "wyoming-2",
+    "jurisdiction": "Wyoming",
+    "name": "Wyoming Source 2",
+    "url": "https://deq.wyoming.gov/water-quality/wypdes/discharge-permitting/",
+    "selector": "body"
+  },
+  {
+    "id": "wyoming-3",
+    "jurisdiction": "Wyoming",
+    "name": "Wyoming Source 3",
+    "url": "https://psc.wyo.gov/pipeline",
+    "selector": "body"
+  },
+  {
+    "id": "wyoming-4",
+    "jurisdiction": "Wyoming",
+    "name": "Wyoming Source 4",
+    "url": "https://lands.wyo.gov/trust-land-management/mineral-leasing/oil-gas-leases",
+    "selector": "body"
+  }
+]

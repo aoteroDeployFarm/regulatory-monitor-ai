@@ -1,0 +1,16 @@
+{
+  "name": "regulatory-monitor-ai",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "functions"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspaces --if-present",
+    "build": "npm run build --workspaces --if-present",
+    "deploy:scraper": "gcloud builds submit apps/scraper --tag gcr.io/$GOOGLE_CLOUD_PROJECT/scraper",
+    "deploy:firebase": "firebase deploy",
+    "setup:db": "bash scripts/setup-bigquery.sh"
+  }
+}
