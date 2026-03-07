@@ -1,0 +1,16 @@
+steps:
+  # 1. Build the scraper image using the root as context
+  - name: 'gcr.io/cloud-builders/docker'
+    args: [
+      'build', 
+      '-t', 'us-central1-docker.pkg.dev/$PROJECT_ID/bulk-scraper/bulk-scraper:latest', 
+      '-f', 'apps/scraper/Dockerfile', 
+      '.'
+    ]
+
+# 2. Push the image to Artifact Registry
+images:
+  - 'us-central1-docker.pkg.dev/$PROJECT_ID/bulk-scraper/bulk-scraper:latest'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
